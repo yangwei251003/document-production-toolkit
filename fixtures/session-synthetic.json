@@ -1,0 +1,1168 @@
+{
+  "description": "All values are synthetic, not real finances, accounts, personal documents, articles or signatures.",
+  "texts": {
+    "93c060f9_1": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "93c060f9_2": "<!doctype html>\n<html lang=\"zh-CN\">\n<head>\n<meta charset=\"utf-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<title>合成示例段落：用于验证文档布局与内容转换流程-10-04 · 阅读版</title>\n<style>\n:root{\n  --bg:#0f1416; --surface:#161d20; --surface2:#1c2529; --line:#28353a;\n  --ink:#e6edef; --ink2:#b3c2c6; --muted:#7d8f94;\n  --teal:#4fd1c5; --teal-d:#126c66; --blue:#7aa6e8; --amber:#e0b155; --red:#e88b7d;\n  --green:#7fd18a; --focus:#3ba3c9;\n  font-family:\"Segoe UI\",\"Microsoft YaHei UI\",\"PingFang SC\",system-ui,sans-serif;\n  color:var(--ink); background:var(--bg);\n}\n*{box-sizing:border-box}\nhtml{scroll-behavior:smooth}\nbody{margin:0;min-width:320px;background:var(--bg)}\nbutton,input,select{font:inherit;color:inherit}\nbutton,select{cursor:pointer}\na{color:var(--blue);text-underline-offset:3px}\ncode{font-family:\"Cascadia Mono\",Consolas,monospace;font-size:.9em;background:#0c1113;border:1px solid var(--line);\n  border-radius:4px;padding:1px 5px;color:var(--teal)}\n:focus-visible{outline:2px solid var(--focus);outline-offset:2px}\n.app{display:grid;grid-template-columns:236px minmax(0,1fr);min-height:100vh}\n.sidebar{position:sticky;top:0;height:100vh;background:#121a1d;border-right:1px solid var(--line);\n  display:flex;flex-direction:column;padding:22px 12px 16px;z-index:30}\n.brand{padding:0 12px 20px}\n.brand strong{display:block;font-size:18px;font-weight:700;letter-spacing:.3px}\n.brand span{display:block;color:var(--muted);font-size:11.5px;margin-top:5px;line-height:1.5}\n.nav{display:grid;gap:2px;overflow-y:auto;flex:1}\n.nav button{border:0;background:transparent;text-align:left;color:var(--ink2);min-height:38px;\n  padding:8px 12px;border-radius:6px;font-weight:600;font-size:13.5px;display:flex;\n  justify-content:space-between;align-items:center;gap:8px}\n.nav button:hover{background:#1a2428;color:var(--ink)}\n.nav button[aria-current=\"page\"]{background:#12312f;color:var(--teal)}\n.nav button i{font-style:normal;color:var(--muted);font-size:11.5px;font-weight:500}\n.nav button[aria-current=\"page\"] i{color:var(--teal)}\n.side-foot{margin-top:12px;padding:14px 12px 0;border-top:1px solid var(--line);\n  color:var(--muted);font-size:11.5px;line-height:1.7}\n.side-foot a{display:block;margin-top:6px;word-break:break-all}\n.main{min-width:0}\n.topbar{position:sticky;top:0;z-index:20;height:56px;display:flex;align-items:center;\n  justify-content:space-between;gap:14px;padding:0 26px;border-bottom:1px solid var(--line);\n  background:rgba(15,20,22,.94);backdrop-filter:blur(8px)}\n.crumb{font-size:13px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}\n.crumb strong{color:var(--ink);font-weight:650}\n.topbar .right{display:flex;gap:8px;align-items:center}\n.ghost{background:transparent;border:1px solid var(--line);color:var(--ink2);\n  border-radius:6px;padding:6px 11px;font-size:12.5px}\n.ghost:hover{border-color:var(--teal);color:var(--teal)}\n.content{max-width:1560px;margin:0 auto;padding:26px 26px 80px}\n.view{display:none}.view.active{display:block}\nh1.page{font-size:26px;margin:0 0 6px;letter-spacing:.2px}\n.page-sub{color:var(--muted);font-size:13.5px;margin:0 0 22px;line-height:1.7}\n.card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:20px 22px;margin-bottom:18px}\n.card>h3{margin:0 0 4px;font-size:16px}\n.card .hint{color:var(--muted);font-size:12.5px;margin:0 0 14px;line-height:1.7}\n.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(148px,1fr));gap:12px;margin-bottom:20px}\n.kpi{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px 18px}\n.kpi b{display:block;font-size:27px;font-weight:720;letter-spacing:.5px}\n.kpi span{display:block;color:var(--muted);font-size:12.5px;margin-top:4px;line-height:1.5}\n.kpi.good b{color:var(--green)} .kpi.warn b{color:var(--amber)} .kpi.bad b{color:var(--red)}\n.kpi.info b{color:var(--teal)}\n.toolbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:14px}\n.toolbar input[type=search],.toolbar input[type=text],.toolbar select{\n  background:var(--surface2);border:1px solid var(--line);border-radius:7px;padding:8px 11px;\n  font-size:13px;min-height:36px}\n.toolbar input[type=search]{flex:1;min-width:190px}\n.toolbar input:focus,.toolbar select:focus{border-color:var(--teal);outline:none}\n.count{color:var(--muted);font-size:12.5px;margin-left:auto;white-space:nowrap}\n.tw{overflow:auto;border:1px solid var(--line);border-radius:9px;background:var(--surface2)}\ntable{border-collapse:collapse;width:100%;font-size:13px}\nth,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:top}\nth{background:#182124;color:var(--ink2);font-weight:650;font-size:12.5px;\n  position:sticky;top:0;z-index:2;white-space:nowrap}\ntbody tr:hover{background:#1b2529}\ntbody tr:last-child td{border-bottom:0}\ntd.id{font-weight:650;color:var(--teal);cursor:pointer}\ntd.id:hover{text-decoration:underline}\n.path{font-family:\"Cascadia Mono\",Consolas,monospace;font-size:11.5px;color:var(--muted);word-break:break-all}\n.tag{display:inline-block;padding:1px 7px;border-radius:20px;font-size:11px;font-weight:600;\n  border:1px solid var(--line);background:#202b2f;color:var(--ink2);white-space:nowrap}\n.tag.t-up{color:var(--green);border-color:#2f5c39;background:#12241a}\n.tag.t-down{color:var(--red);border-color:#6b3a33;background:#2a1614}\n.tag.t-warn{color:var(--amber);border-color:#6a5426;background:#292114}\n.tag.t-info{color:var(--blue);border-color:#33507d;background:#141d2b}\n.tag.t-new{color:var(--teal);border-color:#2c5f5b;background:#0f2422}\n.trunc{max-width:520px;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}\n.trunc2{max-width:400px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}\n.bar{height:9px;background:#212c30;border-radius:5px;overflow:hidden;min-width:70px}\n.bar>i{display:block;height:100%;background:linear-gradient(90deg,#2f8f88,#4fd1c5)}\n.barrow{display:grid;grid-template-columns:190px 1fr 66px;gap:12px;align-items:center;\n  padding:6px 0;border-bottom:1px dashed var(--line);font-size:13px}\n.barrow:last-child{border-bottom:0}\n.barrow .n{text-align:right;color:var(--muted);font-size:12.5px}\n.md h1{font-size:24px;margin:0 0 14px}\n.md h2{font-size:19px;margin:32px 0 10px;padding-bottom:7px;border-bottom:1px solid var(--line)}\n.md h3{font-size:16px;margin:24px 0 8px}\n.md p{margin:10px 0;line-height:1.85;color:var(--ink2)}\n.md ul,.md ol{margin:10px 0;padding-left:24px;line-height:1.85;color:var(--ink2)}\n.md li{margin:5px 0}\n.md strong{color:var(--ink)}\n.md hr{border:0;border-top:1px solid var(--line);margin:24px 0}\n.md table{font-size:12.5px}\n.md td strong{color:var(--ink)}\n.callout{border-left:3px solid var(--teal);background:#10201f;padding:13px 16px;border-radius:0 8px 8px 0;\n  margin:16px 0;font-size:13.5px;line-height:1.8;color:var(--ink2)}\n.callout.warn{border-left-color:var(--amber);background:#221c11}\n.callout.bad{border-left-color:var(--red);background:#241413}\n.callout b{color:var(--ink)}\n.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px}\n.filelist{display:grid;gap:8px}\n.filerow{display:grid;grid-template-columns:minmax(0,1fr) auto auto;gap:14px;align-items:center;\n  background:var(--surface2);border:1px solid var(--line);border-radius:8px;padding:12px 15px}\n.filerow .nm{font-weight:650;font-size:13.5px;word-break:break-all}\n.filerow .ds{color:var(--muted);font-size:12px;margin-top:3px;line-height:1.6}\n.filerow .sz{color:var(--muted);font-size:12px;white-space:nowrap}\n.filerow a.dl{font-size:12px;text-decoration:none;border:1px solid var(--line);border-radius:6px;\n  padding:5px 10px;color:var(--ink2);white-space:nowrap}\n.filerow a.dl:hover{border-color:var(--teal);color:var(--teal)}\n.shots{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}\n.shot{background:var(--surface2);border:1px solid var(--line);border-radius:10px;overflow:hidden}\n.shot img{width:100%;display:block;background:#000;cursor:zoom-in}\n.shot .cap{padding:9px 13px;font-size:12px;color:var(--muted)}\n#lb{position:fixed;inset:0;background:rgba(0,0,0,.9);display:none;align-items:center;\n  justify-content:center;z-index:100;padding:24px;cursor:zoom-out}\n#lb img{max-width:100%;max-height:100%;border-radius:8px}\n#lb.on{display:flex}\n.stbar{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px}\n.stbar button{border:1px solid var(--line);background:var(--surface2);color:var(--ink2);\n  border-radius:20px;padding:6px 13px;font-size:12.5px;font-weight:600}\n.stbar button[aria-pressed=true]{background:#12312f;border-color:var(--teal);color:var(--teal)}\n.empty{padding:26px;text-align:center;color:var(--muted);font-size:13px}\n@media(max-width:900px){\n  .app{grid-template-columns:1fr}\n  .sidebar{position:static;height:auto;border-right:0;border-bottom:1px solid var(--line)}\n  .nav{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));overflow:visible}\n  .side-foot{display:none}\n  .content{padding:20px 16px 60px}\n  .barrow{grid-template-columns:120px 1fr 56px}\n  .trunc{max-width:240px}\n}\n</style>\n</head>\n<body>\n<div class=\"app\">\n  <aside class=\"sidebar\">\n    <div class=\"brand\">\n      <strong>全局技能审查</strong>\n      <span>阅读版 · 2026-10-04<br>数据来自本文件夹全部文件</span>\n    </div>\n    <nav class=\"nav\" id=\"nav\"></nav>\n    <div class=\"side-foot\">\n      <div>本地快照 · 无外部请求</div>\n      <a href=\"audit-report.md\" download>下载 audit-report.md</a>\n      <a href=\"skill-review.html\" target=\"_blank\" rel=\"noopener\">打开原 skill-review.html</a>\n    </div>\n  </aside>\n\n  <div class=\"main\">\n    <div class=\"topbar\">\n      <div class=\"crumb\" id=\"crumb\">—</div>\n      <div class=\"right\">\n        <input id=\"globalSearch\" type=\"search\" placeholder=\"全局搜索技能 / 路径…\" style=\"width:230px\">\n        <button class=\"ghost\" id=\"themeBtn\" type=\"button\">☀ 亮色</button>\n      </div>\n    </div>\n    <div class=\"content\">\n\n      <section class=\"view active\" data-view=\"overview\">\n        <h1 class=\"page\">这是一份什么报告</h1>\n        <p class=\"page-sub\">合成示例段落：用于验证文档布局与内容转换流程+ 各宿主副本 + 合成示例段落：用于验证文档布局与内容转换流程<b>目录里存在</b> ≠ <b>当前宿主可见</b> ≠ <b>实际被调用过</b>。合成示例段落：用于验证文档布局与内容转换流程</p>\n        <div class=\"kpis\" id=\"kpis\"></div>\n        <div class=\"grid2\">\n          <div class=\"card\">\n            <h3>结论速览</h3>\n            <p class=\"hint\">来自 audit-report.md 的关键判断</p>\n            <div class=\"md\" id=\"quickTake\"></div>\n          </div>\n          <div class=\"card\">\n            <h3>证据分级</h3>\n            <p class=\"hint\">合成示例段落：用于验证文档布局与内容转换流程</p>\n            <div class=\"callout\"><b>目录里有</b>：合成示例段落：用于验证文档布局与内容转换流程</div>\n            <div class=\"callout warn\"><b>当前宿主可见</b>：合成示例段落：用于验证文档布局与内容转换流程</div>\n            <div class=\"callout bad\"><b>实际调用过</b>：合成示例段落：用于验证文档布局与内容转换流程</div>\n            <div class=\"callout\"><b>正文自述</b>：SKILL.md 合成示例段落：用于验证文档布局与内容转换流程</div>\n          </div>\n        </div>\n        <div class=\"card\">\n          <h3>合成示例段落：用于验证文档布局与内容转换流程</h3>\n          <p class=\"hint\">共 <span id=\"mfCount\"></span> 合成示例段落：用于验证文档布局与内容转换流程</p>\n          <div class=\"filelist\" id=\"manifest\"></div>\n        </div>\n      </section>\n\n      <section class=\"view\" data-view=\"report\">\n        <h1 class=\"page\">审查报告</h1>\n        <p class=\"page-sub\">合成示例段落：用于验证文档布局与内容转换流程</p>\n        <div class=\"card md\" id=\"reportBody\"></div>\n      </section>\n\n      <section class=\"view\" data-view=\"catalog\">\n        <h1 class=\"page\">技能目录</h1>\n        <p class=\"page-sub\">合成示例段落：用于验证文档布局与内容转换流程</p>\n        <div class=\"kpis\" id=\"catKpis\"></div>\n        <div class=\"card\">\n          <h3>按类别分布</h3>\n          <div id=\"catBars\"></div>\n        </div>\n        <div class=\"card\">\n          <h3>全部技能</h3>\n          <p class=\"hint\">合成示例段落：用于验证文档布局与内容转换流程</p>\n          <div class=\"toolbar\">\n            <input type=\"search\" id=\"skQ\" placeholder=\"搜索名称 / 用途 / 路径…\">\n            <select id=\"skCat\"><option value=\"\">全部类别</option></select>\n            <select id=\"skSrc\"><option value=\"\">全部来源</option></select>\n            <select id=\"skHost\"><option value=\"\">全部宿主</option></select>\n            <select id=\"skStatus\">\n              <option value=\"\">全部状态</option>\n              <option value=\"已更新\">已更新</option>\n              <option value=\"建议整治\">建议整治</option>\n              <option value=\"保留\">保留</option>\n            </select>\n            <button class=\"ghost\" id=\"skReset\" type=\"button\">清除</button>\n            <span class=\"count\" id=\"skCount\"></span>\n          </div>\n          <div class=\"tw\" style=\"max-height:70vh;overflow:auto\">\n            <table>\n              <thead><tr><th style=\"min-width:180px\">技能</th><th style=\"min-width:280px\">用途摘要</th>\n              <th>类别</th><th>登记来源</th><th>宿主</th><th>状态</th></tr></thead>\n              <tbody id=\"skBody\"></tbody>\n            </table>\n          </div>\n          <div class=\"empty\" id=\"skEmpty\" style=\"display:none\">没有符合条件的技能</div>\n        </div>\n      </section>\n\n      <section class=\"view\" data-view=\"hosts\">\n        <h1 class=\"page\">宿主与副本</h1>\n        <p class=\"page-sub\">合成示例段落：用于验证文档布局与内容转换流程</p>\n        <div class=\"card\">\n          <h3>宿主目录</h3>\n          <p class=\"hint\">host-roots.csv · 12 行</p>\n          <div class=\"tw\"><table>\n            <thead><tr><th>宿主</th><th>路径</th><th>存在</th><th>目录</th><th>Junction</th><th>实体目录</th></tr></thead>\n            <tbody id=\"hostBody\"></tbody></table></div>\n        </div>\n        <div class=\"card\">\n          <h3>合成示例段落：用于验证文档布局与内容转换流程</h3>\n          <div id=\"hostBars\"></div>\n        </div>\n        <div class=\"card\">\n          <h3>合成示例段落：用于验证文档布局与内容转换流程</h3>\n          <p class=\"hint\">合成示例段落：用于验证文档布局与内容转换流程</p>\n          <div class=\"toolbar\">\n            <input type=\"search\" id=\"hsQ\" placeholder=\"搜索技能名或路径…\">\n            <select id=\"hsRel\">\n              <option value=\"\">全部关系</option>\n              <option value=\"different\">正文不同（66）</option>\n              <option value=\"host-only\">仅宿主侧存在（10）</option>\n              <option value=\"no-manual\">无直接 SKILL.md（7）</option>\n              <option value=\"same\">正文相同（752）</option>\n            </select>\n            <select id=\"hsHost\"><option value=\"\">全部宿主</option></select>\n            <span class=\"count\" id=\"hsCount\"></span>\n          </div>\n          <div class=\"tw\" style=\"max-height:66vh;overflow:auto\"><table>\n            <thead><tr><th>宿主</th><th>技能</th><th>关系</th><th>在公共库</th><th>有直接 SKILL.md</th><th>本地路径</th></tr></thead>\n            <tbody id=\"hsBody\"></tbody></table></div>\n        </div>\n      </section>\n\n      <section class=\"view\" data-view=\"staged\">\n        <h1 class=\"page\">更新前后的逐文件比对</h1>\n        <p class=\"page-sub\">合成示例段落：用于验证文档布局与内容转换流程</p>\n        <div class=\"card\">\n          <h3>各技能比对结论</h3>\n          <p class=\"hint\">合成示例段落：用于验证文档布局与内容转换流程</p>\n          <div id=\"stagedCards\" class=\"grid2\"></div>\n        </div>\n        <div class=\"card\">\n          <h3>文件明细</h3>\n          <div class=\"toolbar\">\n            <input type=\"search\" id=\"stQ\" placeholder=\"搜索文件路径…\">\n            <select id=\"stId\"><option value=\"\">全部技能</option></select>\n            <select id=\"stRel\">\n              <option value=\"\">全部关系</option>\n              <option value=\"same\">完全相同</option>\n              <option value=\"line-endings-only\">仅换行符不同</option>\n              <option value=\"different\">实质不同</option>\n              <option value=\"upstream-only\">仅上游有</option>\n              <option value=\"local-only\">仅本地有</option>\n            </select>\n            <span class=\"count\" id=\"stCount\"></span>\n          </div>\n          <div class=\"tw\" style=\"max-height:66vh;overflow:auto\"><table>\n            <thead><tr><th>技能</th><th>文件</th><th>字节关系</th><th>语义关系</th><th>本地 SHA</th><th>上游 SHA</th></tr></thead>\n            <tbody id=\"stBody\"></tbody></table></div>\n        </div>\n      </section>\n\n      <section class=\"view\" data-view=\"source\">\n        <h1 class=\"page\">来源登记与候选</h1>\n        <p class=\"page-sub\">合成示例段落：用于验证文档布局与内容转换流程</p>\n        <div class=\"kpis\" id=\"srcKpis\"></div>\n        <div class=\"card\">\n          <h3>逐技能来源状态</h3>\n          <div class=\"toolbar\">\n            <input type=\"search\" id=\"srcQ\" placeholder=\"搜索技能或候选仓库…\">\n            <select id=\"srcFilter\">\n              <option value=\"\">全部</option>\n              <option value=\"registered\">已登记来源</option>\n              <option value=\"candidate\">仅有候选线索</option>\n              <option value=\"none\">无线索</option>\n            </select>\n            <span class=\"count\" id=\"srcCount\"></span>\n          </div>\n          <div class=\"tw\" style=\"max-height:70vh;overflow:auto\"><table>\n            <thead><tr><th style=\"min-width:170px\">技能</th><th>注册来源</th><th>合成示例段落：用于验证文档布局与内容转换流程</th><th>候选 GitHub 仓库</th><th>备注</th></tr></thead>\n            <tbody id=\"srcBody\"></tbody></table></div>\n        </div>\n      </section>\n\n      <section class=\"view\" data-view=\"extras\">\n        <h1 class=\"page\">其他技能文件</h1>\n        <p class=\"page-sub\">合成示例段落：用于验证文档布局与内容转换流程</p>\n        <div class=\"stbar\" id=\"exTabs\"></div>\n        <div class=\"card\">\n          <h3 id=\"exTitle\">—</h3>\n          <p class=\"hint\" id=\"exHint\"></p>\n          <div class=\"toolbar\">\n            <input type=\"search\" id=\"exQ\" placeholder=\"搜索技能名或路径…\">\n            <span class=\"count\" id=\"exCount\"></span>\n          </div>\n          <div class=\"tw\" style=\"max-height:70vh;overflow:auto\"><table>\n            <thead><tr><th style=\"min-width:200px\">名称</th><th>所在位置</th><th>本地文件</th></tr></thead>\n            <tbody id=\"exBody\"></tbody></table></div>\n        </div>\n      </section>\n\n      <section class=\"view\" data-view=\"staging\">\n        <h1 class=\"page\">staging 暂存目录</h1>\n        <p class=\"page-sub\">合成示例段落：用于验证文档布局与内容转换流程</p>\n        <div class=\"card\">\n          <h3>各目录体量</h3>\n          <div id=\"stagingBars\"></div>\n        </div>\n        <div class=\"card\">\n          <h3>备份位置</h3>\n          <div class=\"callout\">合成示例段落：用于验证文档布局与内容转换流程<br>\n            <code><configured-input></code><br>\n            本轮<b>未删除任何技能</b>。</div>\n        </div>\n      </section>\n\n      <section class=\"view\" data-view=\"shots\">\n        <h1 class=\"page\">页面截图</h1>\n        <p class=\"page-sub\">合成示例段落：用于验证文档布局与内容转换流程</p>\n        <div class=\"shots\" id=\"shotGrid\"></div>\n      </section>\n\n      <section class=\"view\" data-view=\"raw\">\n        <h1 class=\"page\">原始文件速查</h1>\n        <p class=\"page-sub\">合成示例段落：用于验证文档布局与内容转换流程</p>\n        <div class=\"card\"><div class=\"filelist\" id=\"rawList\"></div></div>\n      </section>\n\n    </div>\n  </div>\n</div>\n\n<div id=\"lb\"><img alt=\"放大预览\"></div>\n\n<script id=\"payload\" type=\"application/json\">__DATA__</script>\n<script>\nconst DATA = JSON.parse(document.getElementById('payload').textContent);\nconst $ = s => document.querySelector(s);\nconst $$ = s => [...document.querySelectorAll(s)];\nconst esc = s => String(s ?? '').replace(/[&<>\"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',\"'\":'&#39;'}[c]));\nconst short = (s,n=12) => { s=String(s||''); return s.length>n ? s.slice(0,n)+'…' : s; };\nconst kb = n => n<1024 ? n+' B' : n<1048576 ? (n/1024).toFixed(1)+' KB' : (n/1048576).toFixed(2)+' MB';\nconst hostList = s => String(s||'').split(',').map(x=>x.trim()).filter(Boolean);\nconst REL_TXT = {same:'相同',different:'不同','host-only':'仅宿主','no-manual':'无正文'};\nconst SEM_TXT = {same:'完全相同','line-endings-only':'仅换行符','different':'实质不同','upstream-only':'仅上游有','local-only':'仅本地有'};\nconst relTag = r => r==='different' ? '<span class=\"tag t-down\">不同</span>'\n  : r==='same' ? '<span class=\"tag t-up\">相同</span>'\n  : r==='host-only' ? '<span class=\"tag t-warn\">仅宿主</span>'\n  : '<span class=\"tag\">无正文</span>';\nconst semTag = r => r==='different' ? '<span class=\"tag t-down\">实质不同</span>'\n  : r==='line-endings-only' ? '<span class=\"tag t-warn\">仅换行符</span>'\n  : r==='same' ? '<span class=\"tag t-up\">完全相同</span>'\n  : '<span class=\"tag t-info\">单侧存在</span>';\n\n/* ---------- 导航 ---------- */\nconst VIEWS = [\n  ['overview','概览',''],\n  ['report','审查报告',''],\n  ['catalog','技能目录',DATA.stats.skills],\n  ['hosts','宿主与副本',DATA.stats.hostRoots+' 宿主 / '+DATA.stats.hostspec+' 副本'],\n  ['staged','更新比对',DATA.stats.staged],\n  ['source','来源登记',DATA.stats.skills],\n  ['extras','其他技能文件',DATA.stats.plugins+DATA.stats.nested+DATA.stats.codexsys],\n  ['staging','staging 目录',DATA.stats.stagingDirs],\n  ['shots','页面截图',DATA.stats.shots],\n  ['raw','原始文件',DATA.stats.skills?'':''],\n];\n$('#nav').innerHTML = VIEWS.map(([v,label,n],i)=>\n  `<button data-go=\"${v}\"${i===0?' aria-current=\"page\"':''}><span>${label}</span>${n!==''&&n!==undefined?`<i>${n}</i>`:''}</button>`).join('');\n\nfunction go(v){\n  $$('.view').forEach(s=>s.classList.toggle('active', s.dataset.view===v));\n  $$('#nav button').forEach(b=>{\n    if(b.dataset.go===v) b.setAttribute('aria-current','page'); else b.removeAttribute('aria-current');\n  });\n  const lbl = VIEWS.find(x=>x[0]===v)[1];\n  $('#crumb').innerHTML = `合成示例段落：用于验证文档布局与内容转换流程-10-04 / <strong>${lbl}</strong>`;\n  window.scrollTo(0,0);\n  $('#globalSearch').value='';\n}\n$('#nav').addEventListener('click',e=>{ const b=e.target.closest('button[data-go]'); if(b) go(b.dataset.go); });\n\n/* ---------- 主题 ---------- */\nconst DARK={'--bg':'#0f1416','--surface':'#161d20','--surface2':'#1c2529','--line':'#28353a','--ink':'#e6edef',\n  '--ink2':'#b3c2c6','--muted':'#7d8f94','--teal':'#4fd1c5','--blue':'#7aa6e8','--amber':'#e0b155',\n  '--red':'#e88b7d','--green':'#7fd18a','--focus':'#3ba3c9'};\nconst LIGHT={'--bg':'#f7f9f8','--surface':'#fff','--surface2':'#f2f6f5','--line':'#dbe4e1','--ink':'#1c292b',\n  '--ink2':'#415255','--muted':'#6c7f82','--teal':'#0f7a72','--blue':'#2f5c9d','--amber':'#8a5a12',\n  '--red':'#a8443a','--green':'#2c7a3f','--focus':'#116d9d'};\nconst LIGHT_EXTRA=`body{background:#f7f9f8}.sidebar{background:#eef4f2}\n  code{background:#fff;border-color:#dbe4e1;color:#0f7a72}\n  .kpi,.card,.filerow,.shot,.stbar button,.toolbar input,.toolbar select{background:#fff}\n  th{background:#eef3f1}.tw{background:#fff}tbody tr:hover{background:#f4f8f7}\n  .callout{background:#eaf5f3}.callout.warn{background:#fbf1de}.callout.bad{background:#fbeae7}\n  .bar{background:#e5ecea}.tag{background:#eef3f1}\n  .md p,.md li,.callout{color:#415255}.md strong,.callout b{color:#1c292b}\n  .page-sub b,.card b{color:#1c292b}`;\nlet light=false;\n$('#themeBtn').addEventListener('click',()=>{\n  light=!light;\n  const set = light?LIGHT:DARK;\n  for(const k in set){\n    if(light) document.documentElement.style.setProperty(k,set[k]);\n    else document.documentElement.style.removeProperty(k);\n  }\n  let s=document.getElementById('lighthead');\n  if(light && !s){ s=document.createElement('style'); s.id='lighthead'; s.textContent=LIGHT_EXTRA; document.head.appendChild(s); }\n  else if(!light && s){ s.remove(); }\n  $('#themeBtn').textContent = light?'☾ 暗色':'☀ 亮色';\n});\n\n/* ---------- 概览 ---------- */\nconst S=DATA.stats;\n$('#kpis').innerHTML = [\n  ['info',S.skills,'公共主技能'],\n  ['',S.hostRoots,'宿主技能目录'],\n  ['',S.nested,'嵌套 SKILL.md'],\n  ['',S.plugins,'插件缓存 SKILL.md'],\n  ['good',S.staged,'逐文件比对条目'],\n  ['warn',S.withUrl,'已登记来源 URL'],\n  ['warn',S.withCand,'仅有候选线索'],\n  ['bad',S.noHint,'完全无线索'],\n].map(([c,n,l])=>`<div class=\"kpi ${c}\"><b>${n}</b><span>${l}</span></div>`).join('');\n\n$('#quickTake').innerHTML = `\n<p>这次盘点覆盖 <b>${S.skills}</b> 个公共主技能、<b>${S.nested}</b> 份嵌套 SKILL.md，以及 <b>${S.plugins}</b> 合成示例段落：用于验证文档布局与内容转换流程</p>\n<ul>\n<li><b>已执行更新</b>：8 合成示例段落：用于验证文档布局与内容转换流程</li>\n<li><b>建议先停自动触发</b>：<b>${DATA.review.length}</b> 合成示例段落：用于验证文档布局与内容转换流程</li>\n<li><b>来源尚未补齐</b>：${S.noHint} 合成示例段落：用于验证文档布局与内容转换流程</li>\n</ul>`;\n\n$('#mfCount').textContent = DATA.manifest.length;\n$('#manifest').innerHTML = DATA.manifest.map(m=>{\n  const isDir = m.type==='目录';\n  const href = isDir ? null : m.name;\n  return `<div class=\"filerow\">\n    <div><div class=\"nm\">${esc(m.name)}</div><div class=\"ds\">合成示例段落：用于验证文档布局与内容转换流程</div></div>\n    <div class=\"sz\">${kb(m.size)}</div>\n    ${href?`<a class=\"dl\" href=\"${esc(href)}\" target=\"_blank\" rel=\"noopener\">打开</a>`:'<span class=\"sz\">—</span>'}\n  </div>`}).join('');\n$('#rawList').innerHTML = DATA.manifest.map(m=>{\n  const isDir=m.type==='目录';\n  return `<div class=\"filerow\">\n    <div><div class=\"nm\">${esc(m.name)}</div><div class=\"ds\">合成示例段落：用于验证文档布局与内容转换流程</div></div>\n    <div class=\"sz\">${kb(m.size)}</div>\n    ${isDir?'<span class=\"sz\">目录</span>':`<a class=\"dl\" href=\"${esc(m.name)}\" target=\"_blank\" rel=\"noopener\">在新标签打开</a>`}\n  </div>`}).join('');\n\n/* ---------- 报告 ---------- */\nfetch('audit-report.md').then(r=>r.ok?r.text():null).then(t=>{ if(t) $('#reportBody').innerHTML=mdInline(t); })\n .catch(()=>{});\nfunction mdInline(t){ return esc(t)\n  .replace(/^### (.*)$/gm,'<h3>$1</h3>').replace(/^## (.*)$/gm,'<h2>$1</h2>').replace(/^# (.*)$/gm,'<h1>$1</h1>')\n  .replace(/`([^`]+)`/g,'<code>$1</code>')\n  .replace(/\\*\\*([^*]+)\\*\\*/g,'<strong>$1</strong>')\n  .replace(/\\[([^\\]]+)\\]\\((https?:\\/\\/[^)]+)\\)/g,'<a href=\"$2\" target=\"_blank\" rel=\"noopener\">$1</a>'); }\n\n/* ---------- 技能目录 ---------- */\n$('#catKpis').innerHTML = [\n  ['info',S.catCount,'技能类别'],\n  ['good',DATA.updated.length,'本次已更新'],\n  ['bad',DATA.review.length,'建议人工核验'],\n  ['warn',S.skills-DATA.updated.length-DATA.review.length,'维持原样'],\n].map(([c,n,l])=>`<div class=\"kpi ${c}\"><b>${n}</b><span>${l}</span></div>`).join('');\n\nconst maxCat = Math.max(...DATA.cats.map(c=>c[1]));\n$('#catBars').innerHTML = DATA.cats.map(([c,n])=>\n  `<div class=\"barrow\"><span class=\"trunc\" title=\"${esc(c)}\">${esc(c)}</span>\n   <span class=\"bar\"><i style=\"width:${(n/maxCat*100).toFixed(1)}%\"></i></span><span class=\"n\">${n}</span></div>`).join('');\n\nconst sources = [...new Set(DATA.skills.map(s=>s.source||'（空）'))].sort();\nconst hostsAll = [...new Set(DATA.skills.flatMap(s=>hostList(s.hosts)))].sort();\n$('#skCat').innerHTML += DATA.cats.map(([c,n])=>`<option value=\"${esc(c)}\">${esc(c)}（${n}）</option>`).join('');\n$('#skSrc').innerHTML += sources.map(c=>`<option value=\"${esc(c)}\">${esc(c)}</option>`).join('');\n$('#skHost').innerHTML += hostsAll.map(c=>`<option value=\"${esc(c)}\">${esc(c)}</option>`).join('');\n\nconst UPD=new Set(DATA.updated), REV=new Set(DATA.review);\nfunction statusOf(id){\n  if(UPD.has(id)) return ['已更新','t-new'];\n  if(REV.has(id)) return ['建议整治','t-warn'];\n  return ['保留',''];\n}\nlet skExpand = new Set();\nfunction renderSkills(){\n  const q=$('#skQ').value.trim().toLowerCase(), c=$('#skCat').value, src=$('#skSrc').value,\n        h=$('#skHost').value, st=$('#skStatus').value;\n  const rows = DATA.skills.filter(s=>{\n    if(c && s.category!==c) return false;\n    if(src && (s.source||'（空）')!==src) return false;\n    if(h && !hostList(s.hosts).includes(h)) return false;\n    if(st && statusOf(s.id)[0]!==st) return false;\n    if(q){\n      const blob=[s.id,s.nameZh,s.summaryZh,s.source,s.canonicalPath,s.sourceUrl].join(' ').toLowerCase();\n      if(!blob.includes(q)) return false;\n    }\n    return true;\n  });\n  $('#skCount').textContent = `显示 ${rows.length} / ${S.skills} 项`;\n  $('#skEmpty').style.display = rows.length? 'none':'block';\n  $('#skBody').innerHTML = rows.map(s=>{\n    const [lab,cls]=statusOf(s.id);\n    const open=skExpand.has(s.id);\n    const srcCell = s.sourceUrl\n      ? `<a href=\"${esc(s.sourceUrl)}\" target=\"_blank\" rel=\"noopener\">${esc(s.source)}</a>`\n      : esc(s.source||'（未登记）');\n    return `<tr>\n      <td class=\"id\" data-sk=\"${esc(s.id)}\">${esc(s.id)}${s.nameZh&&s.nameZh!==s.id?`<div style=\"color:var(--muted);font-weight:400;font-size:11.5px\">${esc(s.nameZh)}</div>`:''}</td>\n      <td><span class=\"trunc2\" title=\"${esc(s.summaryZh)}\">${esc(s.summaryZh)}</span></td>\n      <td><span class=\"tag\">${esc(s.category)}</span></td>\n      <td><span class=\"trunc\" title=\"${esc(s.source)}\">${srcCell}</span></td>\n      <td>${hostList(s.hosts).map(x=>`<span class=\"tag\">${esc(x)}</span>`).join(' ')||'—'}</td>\n      <td><span class=\"tag ${cls}\">${lab}</span></td>\n    </tr>` + (open ? `<tr><td colspan=\"6\" style=\"background:#141c1f\">\n      <div style=\"padding:6px 2px;line-height:1.85;font-size:13px\">\n        <div><b style=\"color:var(--teal)\">完整描述</b><br>${esc(s.summaryZh)}</div>\n        <div style=\"margin-top:8px\"><b style=\"color:var(--teal)\">来源 URL</b> ${s.sourceUrl?`<a href=\"${esc(s.sourceUrl)}\" target=\"_blank\" rel=\"noopener\">${esc(s.sourceUrl)}</a>`:'<span style=\"color:var(--muted)\">未登记</span>'}</div>\n        <div><b style=\"color:var(--teal)\">登记时间</b> ${esc(s.registryUpdatedAt||'—')}</div>\n        <div><b style=\"color:var(--teal)\">公共库路径</b> <span class=\"path\">${esc(s.canonicalPath)}</span></div>\n        <div><b style=\"color:var(--teal)\">正文 SHA-256</b> <span class=\"path\">${esc(s.manualSha256||'—')}</span></div>\n        <div><b style=\"color:var(--teal)\">宿主映射</b> ${hostList(s.hosts).map(x=>`<span class=\"tag\">${esc(x)}</span>`).join(' ')||'—'}</div>\n      </div></td></tr>` : '');\n  }).join('');\n}\n$('#skBody').addEventListener('click',e=>{\n  const c=e.target.closest('[data-sk]'); if(!c) return;\n  const id=c.dataset.sk;\n  skExpand.has(id)?skExpand.delete(id):skExpand.add(id);\n  renderSkills();\n});\n['skQ','skCat','skSrc','skHost','skStatus'].forEach(i=>$('#'+i).addEventListener('input',renderSkills));\n$('#skReset').addEventListener('click',()=>{['skQ','skCat','skSrc','skHost','skStatus'].forEach(i=>$('#'+i).value='');renderSkills();});\n\n/* ---------- 宿主与副本 ---------- */\n$('#hostBody').innerHTML = DATA.hosts.map(h=>`<tr>\n  <td style=\"font-weight:650\">${esc(h.host)}</td>\n  <td class=\"path\">${esc(h.path)}</td>\n  <td>${h.exists==='True'?'<span class=\"tag t-up\">存在</span>':'<span class=\"tag t-down\">缺失</span>'}</td>\n  <td>${h.directories}</td><td>${h.junctions}</td><td>${h.physicalDirectories}</td></tr>`).join('');\nconst maxHost=Math.max(...DATA.hostUse.map(h=>h[1]));\n$('#hostBars').innerHTML = DATA.hostUse.map(([h,n])=>\n  `<div class=\"barrow\"><span>${esc(h)}</span><span class=\"bar\"><i style=\"width:${(n/maxHost*100).toFixed(1)}%\"></i></span><span class=\"n\">${n}</span></div>`).join('');\n\n$('#hsHost').innerHTML += [...new Set(DATA.hostspec.map(r=>r.host))].sort().map(h=>`<option>${esc(h)}</option>`).join('');\nfunction renderHs(){\n  const q=$('#hsQ').value.trim().toLowerCase(), rel=$('#hsRel').value, h=$('#hsHost').value;\n  const rows=DATA.hostspec.filter(r=>{\n    if(rel && r.contentRelation!==rel) return false;\n    if(h && r.host!==h) return false;\n    if(q && ![r.id,r.path,r.host].join(' ').toLowerCase().includes(q)) return false;\n    return true;\n  }).sort((a,b)=>{\n    const o={different:0,'host-only':1,'no-manual':2,same:3};\n    return o[a.contentRelation]-o[b.contentRelation] || a.id.localeCompare(b.id);\n  });\n  $('#hsCount').textContent=`显示 ${rows.length} / ${DATA.hostspec.length} 条`;\n  $('#hsBody').innerHTML=rows.map(r=>`<tr>\n    <td style=\"white-space:nowrap\">${esc(r.host)}</td>\n    <td class=\"id\" style=\"cursor:default\">${esc(r.id)}</td>\n    <td>${relTag(r.contentRelation)}<div style=\"color:var(--muted);font-size:11px;margin-top:3px\">${REL_TXT[r.contentRelation]||''}</div></td>\n    <td>${r.inCanonicalLibrary==='True'?'是':'<span style=\"color:var(--amber)\">否</span>'}</td>\n    <td>${r.hasDirectManual==='True'?'是':'<span style=\"color:var(--amber)\">否</span>'}</td>\n    <td class=\"path\">${esc(r.path)}</td></tr>`).join('');\n}\n['hsQ','hsRel','hsHost'].forEach(i=>$('#'+i).addEventListener('input',renderHs));\n\n/* ---------- 更新比对 ---------- */\nconst byStaged={};\nDATA.staged.forEach(r=>{ (byStaged[r.id]=byStaged[r.id]||[]).push(r); });\nconst NOTE={\n  'aihot':'合成示例段落：用于验证文档布局与内容转换流程.1.1 文档换为 2.0.0，合成示例段落：用于验证文档布局与内容转换流程',\n  'html-ppt-skill':'合成示例段落：用于验证文档布局与内容转换流程/对比度/图片文件有实质变化',\n  'guizang-ppt-skill':'合成示例段落：用于验证文档布局与内容转换流程',\n  'humanizer':'已更新 · 2.1.1 升至 3.1.0，同内容别名同步',\n  'ui-ux-pro-max':'已更新 · 数据/参考资料/合成示例段落：用于验证文档布局与内容转换流程',\n  'impeccable':'暂不替换 · 本地 3.9.1 合成示例段落：用于验证文档布局与内容转换流程',\n  'ui-craft':'合成示例段落：用于验证文档布局与内容转换流程',\n  'ponytail':'合成示例段落：用于验证文档布局与内容转换流程',\n};\n$('#stagedCards').innerHTML = Object.keys(byStaged).map(id=>{\n  const rows=byStaged[id];\n  const c={same:0,'line-endings-only':0,different:0,'upstream-only':0,'local-only':0};\n  rows.forEach(r=>c[r.semanticRelation]=(c[r.semanticRelation]||0)+1);\n  const substantive=c.different+c['upstream-only']+c['local-only'];\n  return `<div class=\"card\" style=\"margin:0;cursor:pointer\" data-stgo=\"${esc(id)}\">\n    <h3 style=\"display:flex;justify-content:space-between;align-items:baseline;gap:10px\">\n      <code style=\"font-size:14px\">${esc(id)}</code>\n      <span class=\"tag ${substantive?'t-warn':'t-up'}\">${rows.length} 个文件</span></h3>\n    <p class=\"hint\" style=\"margin:8px 0 10px\">${esc(NOTE[id]||'')}</p>\n    <div style=\"display:flex;gap:6px;flex-wrap:wrap\">\n      ${substantive?`<span class=\"tag t-down\">实质差异 ${substantive}</span>`:''}\n      ${c['line-endings-only']?`<span class=\"tag t-warn\">合成示例段落：用于验证文档布局与内容转换流程</span>`:''}\n      ${c.same?`<span class=\"tag t-up\">相同 ${c.same}</span>`:''}\n    </div></div>`;\n}).join('');\n$('#stagedCards').addEventListener('click',e=>{\n  const b=e.target.closest('[data-stgo]'); if(!b) return;\n  $('#stId').value=b.dataset.stgo; renderStaged();\n  $('#stId').scrollIntoView({block:'center'});\n});\n$('#stId').innerHTML += Object.keys(byStaged).map(id=>`<option value=\"${esc(id)}\">${esc(id)}（${byStaged[id].length}）</option>`).join('');\nfunction renderStaged(){\n  const q=$('#stQ').value.trim().toLowerCase(), id=$('#stId').value, rel=$('#stRel').value;\n  const rows=DATA.staged.filter(r=>{\n    if(id && r.id!==id) return false;\n    if(rel && r.semanticRelation!==rel) return false;\n    if(q && !r.relativePath.toLowerCase().includes(q)) return false;\n    return true;\n  });\n  $('#stCount').textContent=`显示 ${rows.length} / ${DATA.staged.length} 条`;\n  $('#stBody').innerHTML=rows.map(r=>`<tr>\n    <td style=\"white-space:nowrap\"><code>${esc(r.id)}</code></td>\n    <td class=\"path\">${esc(r.relativePath)}</td>\n    <td>${relTag(r.relation)}</td>\n    <td>${semTag(r.semanticRelation)}<div style=\"color:var(--muted);font-size:11px;margin-top:3px\">${SEM_TXT[r.semanticRelation]||''}</div></td>\n    <td class=\"path\">${short(r.localSha256,10)||'—'}</td>\n    <td class=\"path\">${short(r.upstreamSha256,10)||'—'}</td></tr>`).join('');\n}\n['stQ','stId','stRel'].forEach(i=>$('#'+i).addEventListener('input',renderStaged));\n\n/* ---------- 来源 ---------- */\n$('#srcKpis').innerHTML = [\n  ['good',S.withUrl,'已登记来源 URL'],\n  ['warn',S.withCand,'合成示例段落：用于验证文档布局与内容转换流程'],\n  ['bad',S.noHint,'连线索都没有'],\n  ['info',S.skills,'合计主技能'],\n].map(([c,n,l])=>`<div class=\"kpi ${c}\"><b>${n}</b><span>${l}</span></div>`).join('');\nfunction renderSrc(){\n  const q=$('#srcQ').value.trim().toLowerCase(), f=$('#srcFilter').value;\n  const rows=DATA.cands.filter(c=>{\n    const n=parseInt(c.candidateCount||'0',10);\n    const kind = c.registeredSourceUrl ? 'registered' : (n>0?'candidate':'none');\n    if(f && kind!==f) return false;\n    if(q && ![c.id,c.registeredSourceUrl,c.gitRemote,c.candidateGitHubRepos,c.note].join(' ').toLowerCase().includes(q)) return false;\n    return true;\n  }).sort((a,b)=>{\n    const k=c=>c.registeredSourceUrl?0:(parseInt(c.candidateCount||'0',10)>0?1:2);\n    return k(a)-k(b) || a.id.localeCompare(b.id);\n  });\n  $('#srcCount').textContent=`显示 ${rows.length} / ${DATA.cands.length} 项`;\n  $('#srcBody').innerHTML=rows.map(c=>{\n    const repos=String(c.candidateGitHubRepos||'').split(';').map(x=>x.trim()).filter(Boolean);\n    const kind = c.registeredSourceUrl ? '<span class=\"tag t-up\">已登记</span>'\n      : repos.length ? '<span class=\"tag t-warn\">仅候选</span>' : '<span class=\"tag t-down\">无线索</span>';\n    return `<tr>\n      <td class=\"id\" style=\"cursor:default\">${kind} ${esc(c.id)}</td>\n      <td>${c.registeredSourceUrl?`<a href=\"${esc(c.registeredSourceUrl)}\" target=\"_blank\" rel=\"noopener\"><span class=\"trunc\" style=\"display:inline-block;max-width:230px;vertical-align:bottom\">${esc(c.registeredSourceUrl)}</span></a>`:'<span style=\"color:var(--muted)\">—</span>'}</td>\n      <td class=\"path\">${esc(c.gitRemote||'—')}</td>\n      <td>${repos.length?repos.map(r=>`<a href=\"https://github.com/${esc(r)}\" target=\"_blank\" rel=\"noopener\"><span class=\"tag t-info\">${esc(r)}</span></a>`).join(' '):'<span style=\"color:var(--muted)\">—</span>'}</td>\n      <td style=\"color:var(--muted);font-size:12px\">${esc(c.note||'')}</td></tr>`;\n  }).join('');\n}\n['srcQ','srcFilter'].forEach(i=>$('#'+i).addEventListener('input',renderSrc));\n\n/* ---------- 其他技能文件 ---------- */\nconst EX={\n  plugins:{key:'plugins',title:`插件缓存技能（${S.plugins}）`,\n    hint:'session-plugin-skills.csv。合成示例段落：用于验证文档布局与内容转换流程',\n    rows:()=>DATA.plugins.map(p=>({name:p.skill,where:p.pluginRoot,path:p.path}))},\n  codexsys:{key:'codexsys',title:`Codex 内置技能（${S.codexsys}）`,\n    hint:'codex-system-skills.csv。合成示例段落：用于验证文档布局与内容转换流程',\n    rows:()=>DATA.codexsys.map(p=>({name:p.id,where:'.codex\\\\skills\\\\.system',path:p.path}))},\n  nested:{key:'nested',title:`公共库嵌套技能（${S.nested}）`,\n    hint:'nested-skills.csv。合成示例段落：用于验证文档布局与内容转换流程.md，会与主技能一起被扫到。',\n    rows:()=>DATA.nested.map(p=>({name:p.relativePath.split(/[\\\\\\\\/]/).slice(0,-1).join('\\\\'),where:'公共技能库（嵌套）',path:p.path}))},\n};\nlet exTab='plugins';\n$('#exTabs').innerHTML = Object.entries(EX).map(([k,v])=>\n  `<button data-ex=\"${k}\" aria-pressed=\"${k===exTab}\">${esc(v.title)}</button>`).join('');\n$('#exTabs').addEventListener('click',e=>{\n  const b=e.target.closest('[data-ex]'); if(!b) return;\n  exTab=b.dataset.ex;\n  $$('#exTabs button').forEach(x=>x.setAttribute('aria-pressed', x.dataset.ex===exTab));\n  renderEx();\n});\nfunction renderEx(){\n  const cfg=EX[exTab];\n  $('#exTitle').textContent=cfg.title;\n  $('#exHint').textContent=cfg.hint;\n  const q=$('#exQ').value.trim().toLowerCase();\n  const rows=cfg.rows().filter(r=>!q || [r.name,r.where,r.path].join(' ').toLowerCase().includes(q));\n  $('#exCount').textContent=`显示 ${rows.length} 项`;\n  $('#exBody').innerHTML=rows.map(r=>`<tr>\n    <td style=\"font-weight:600\">${esc(r.name)}</td>\n    <td class=\"path\">${esc(r.where)}</td>\n    <td class=\"path\">${esc(r.path)}</td></tr>`).join('');\n}\n$('#exQ').addEventListener('input',renderEx);\n\n/* ---------- staging ---------- */\nconst maxStg=Math.max(...DATA.staging.map(s=>s.files));\n$('#stagingBars').innerHTML=DATA.staging.map(s=>\n  `<div class=\"barrow\"><span><code>${esc(s.name)}</code></span>\n   <span class=\"bar\"><i style=\"width:${(s.files/maxStg*100).toFixed(1)}%\"></i></span>\n   <span class=\"n\">${s.files}</span></div>`).join('');\n\n/* ---------- 截图 ---------- */\n$('#shotGrid').innerHTML=DATA.shotsData.map(s=>\n  `<figure class=\"shot\" style=\"margin:0\"><img src=\"data:image/png;base64,${s.b64}\" alt=\"${esc(s.name)}\" loading=\"lazy\">\n   <figcaption class=\"cap\">${esc(s.name)} · ${kb(Math.round(s.b64.length*3/4))}</figcaption></figure>`).join('');\n$('#shotGrid').addEventListener('click',e=>{\n  if(e.target.tagName!=='IMG') return;\n  $('#lb img').src=e.target.src; $('#lb').classList.add('on');\n});\n$('#lb').addEventListener('click',()=>$('#lb').classList.remove('on'));\ndocument.addEventListener('keydown',e=>{ if(e.key==='Escape') $('#lb').classList.remove('on'); });\n\n/* ---------- 全局搜索 ---------- */\n$('#globalSearch').addEventListener('keydown',e=>{\n  if(e.key!=='Enter') return;\n  const q=e.target.value.trim();\n  if(!q) return;\n  $('#skQ').value=q;\n  $('#skCat').value=''; $('#skSrc').value=''; $('#skHost').value=''; $('#skStatus').value='';\n  renderSkills(); go('catalog');\n});\n\nrenderSkills(); renderHs(); renderStaged(); renderSrc(); renderEx();\ngo('overview');\n</script>\n</body>\n</html>\n",
+    "93c060f9_3": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "93c060f9_4": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "93c060f9_5": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "93c060f9_6": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "93c060f9_7": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "93c060f9_8": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "93c060f9_9": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "a0288840_1": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "a0288840_2": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "a0288840_3": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "e12ad698_1": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "e12ad698_2": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "e12ad698_3": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "e12ad698_4": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "e12ad698_5": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "e12ad698_6": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "e12ad698_7": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "e12ad698_8": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "e12ad698_9": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "e12ad698_10": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "e12ad698_11": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "e12ad698_12": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "e12ad698_13": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "e12ad698_14": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "e12ad698_15": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "e27182eb_1": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "fc364c42_1": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "fc364c42_2": "\n--- 前 30 个 <c ...> 单元格 ---",
+    "fc364c42_3": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "fc364c42_4": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "ca2a5a60_1": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "69333c79_1": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "a6be56d5_1": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "a6be56d5_2": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "a6be56d5_3": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "3534730e_1": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "3534730e_2": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "3534730e_3": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "3534730e_4": "<xdr:oneCellAnchor><xdr:from><xdr:col>%d</xdr:col><xdr:colOff>%d</xdr:colOff><xdr:row>%d</xdr:row><xdr:rowOff>%d</xdr:rowOff></xdr:from><xdr:ext cx=\"%d\" cy=\"%d\"/><xdr:pic><xdr:nvPicPr><xdr:cNvPr id=\"%d\" name=\"照片%02d %s\" descr=\"%s\"/><xdr:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></xdr:cNvPicPr></xdr:nvPicPr><xdr:blipFill><a:blip r:embed=\"%s\"/><a:stretch><a:fillRect/></a:stretch></xdr:blipFill><xdr:spPr><a:xfrm><a:off x=\"0\" y=\"0\"/><a:ext cx=\"%d\" cy=\"%d\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:ln w=\"6350\"><a:solidFill><a:srgbClr val=\"D0D0D0\"/></a:solidFill></a:ln></xdr:spPr></xdr:pic><xdr:clientData/></xdr:oneCellAnchor>",
+    "b80b6fc6_1": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b80b6fc6_2": "照片原始总量: %.1f MB -> 压缩后: %.1f MB",
+    "380883d2_1": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "380883d2_2": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_1": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_2": "合成示例段落：用于验证文档布局与内容转换流程{图号: (rId, cx_emu, cy_emu)}",
+    "b38d32a6_3": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_4": "img_rids: {图号: (rId, cx_emu, cy_emu)}",
+    "b38d32a6_5": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_6": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_7": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_8": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_9": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_10": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_11": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_12": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_13": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_14": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_15": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_16": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_17": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_18": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_19": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_20": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_21": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_22": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_23": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_24": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_25": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_26": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_27": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_28": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_29": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_30": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_31": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_32": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_33": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_34": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_35": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_36": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_37": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_38": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_39": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_40": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_41": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_42": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_43": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_44": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_45": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_46": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_47": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_48": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_49": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_50": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_51": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_52": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_53": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_54": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_55": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_56": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_57": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_58": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_59": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_60": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_61": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_62": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_63": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_64": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_65": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_66": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_67": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_68": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_69": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_70": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_71": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_72": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_73": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_74": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_75": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "b38d32a6_76": "合成示例段落：用于验证文档布局与内容转换流程。",
+    "4bab3f31_1": "合成示例段落：用于验证文档布局与内容转换流程。"
+  },
+  "tables": {
+    "table_1": [
+      [
+        "阶段 A（合成）",
+        "阶段 A（合成）"
+      ],
+      [
+        "合成记录 2-1",
+        "合成记录 2-2"
+      ],
+      [
+        "合成记录 3-1",
+        "合成记录 3-2"
+      ],
+      [
+        "合成记录 4-1",
+        "合成记录 4-2"
+      ],
+      [
+        "合成记录 5-1",
+        "合成记录 5-2"
+      ]
+    ],
+    "table_2": [
+      [],
+      "合成列 2"
+    ],
+    "table_3": [
+      [
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        13,
+        14
+      ],
+      [
+        "合成记录 2-1",
+        "合成记录 2-2",
+        23,
+        24
+      ],
+      [
+        "合成记录 3-1",
+        "合成记录 3-2",
+        33,
+        34
+      ],
+      [
+        "合成记录 4-1",
+        "合成记录 4-2",
+        43,
+        44
+      ],
+      [
+        "合成记录 5-1",
+        "合成记录 5-2",
+        53,
+        54
+      ],
+      [
+        "合成记录 6-1",
+        "合成记录 6-2",
+        63,
+        64
+      ],
+      [
+        "合成记录 7-1",
+        "合成记录 7-2",
+        73,
+        74
+      ]
+    ],
+    "table_4": [
+      [
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）"
+      ],
+      [
+        "合成记录 2-1",
+        "合成记录 2-2",
+        "合成记录 2-3",
+        "合成记录 2-4"
+      ],
+      [
+        "合成记录 3-1",
+        "合成记录 3-2",
+        "合成记录 3-3",
+        "合成记录 3-4"
+      ],
+      [
+        "合成记录 4-1",
+        "合成记录 4-2",
+        "合成记录 4-3",
+        "合成记录 4-4"
+      ],
+      [
+        "合成记录 5-1",
+        "合成记录 5-2",
+        "合成记录 5-3",
+        "合成记录 5-4"
+      ]
+    ],
+    "table_5": [
+      [
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）"
+      ],
+      [
+        "合成记录 2-1",
+        "合成记录 2-2",
+        "合成记录 2-3",
+        "合成记录 2-4"
+      ],
+      [
+        "合成记录 3-1",
+        "合成记录 3-2",
+        "合成记录 3-3",
+        "合成记录 3-4"
+      ],
+      [
+        "合成记录 4-1",
+        "合成记录 4-2",
+        "合成记录 4-3",
+        "合成记录 4-4"
+      ],
+      [
+        "合成记录 5-1",
+        "合成记录 5-2",
+        "合成记录 5-3",
+        "合成记录 5-4"
+      ],
+      [
+        "合成记录 6-1",
+        "合成记录 6-2",
+        "合成记录 6-3",
+        "合成记录 6-4"
+      ],
+      [
+        "合成记录 7-1",
+        "合成记录 7-2",
+        "合成记录 7-3",
+        "合成记录 7-4"
+      ]
+    ],
+    "table_6": [
+      [
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）"
+      ],
+      [
+        "合成记录 2-1",
+        "合成记录 2-2",
+        "合成记录 2-3",
+        "合成记录 2-4"
+      ],
+      [
+        "合成记录 3-1",
+        "合成记录 3-2",
+        "合成记录 3-3",
+        "合成记录 3-4"
+      ],
+      [
+        "合成记录 4-1",
+        "合成记录 4-2",
+        "合成记录 4-3",
+        "合成记录 4-4"
+      ],
+      [
+        "合成记录 5-1",
+        "合成记录 5-2",
+        "合成记录 5-3",
+        "合成记录 5-4"
+      ],
+      [
+        "合成记录 6-1",
+        "合成记录 6-2",
+        "合成记录 6-3",
+        "合成记录 6-4"
+      ],
+      [
+        "合成记录 7-1",
+        "合成记录 7-2",
+        "合成记录 7-3",
+        "合成记录 7-4"
+      ],
+      [
+        "合成记录 8-1",
+        "合成记录 8-2",
+        "合成记录 8-3",
+        "合成记录 8-4"
+      ]
+    ],
+    "table_7": [
+      [
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）"
+      ],
+      [
+        "合成记录 2-1",
+        "合成记录 2-2",
+        "合成记录 2-3",
+        "合成记录 2-4"
+      ],
+      [
+        "合成记录 3-1",
+        "合成记录 3-2",
+        "合成记录 3-3",
+        "合成记录 3-4"
+      ],
+      [
+        "合成记录 4-1",
+        "合成记录 4-2",
+        "合成记录 4-3",
+        "合成记录 4-4"
+      ],
+      [
+        "合成记录 5-1",
+        "合成记录 5-2",
+        "合成记录 5-3",
+        "合成记录 5-4"
+      ],
+      [
+        "合成记录 6-1",
+        "合成记录 6-2",
+        "合成记录 6-3",
+        "合成记录 6-4"
+      ]
+    ],
+    "xlsx_header": [
+      "合成列 1",
+      "合成列 2",
+      "合成列 3",
+      "合成列 4",
+      "合成列 5",
+      "合成列 6",
+      "合成列 7",
+      "合成列 8",
+      "合成列 9",
+      "合成列 10"
+    ],
+    "xlsx_rows": [
+      [
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）"
+      ],
+      [
+        "合成记录 2-1",
+        "合成记录 2-2",
+        "合成记录 2-3",
+        "合成记录 2-4",
+        "合成记录 2-5",
+        "合成记录 2-6",
+        "合成记录 2-7",
+        "合成记录 2-8",
+        "合成记录 2-9",
+        "合成记录 2-10"
+      ],
+      [
+        "合成记录 3-1",
+        "合成记录 3-2",
+        "合成记录 3-3",
+        "合成记录 3-4",
+        "合成记录 3-5",
+        "合成记录 3-6",
+        "合成记录 3-7",
+        "合成记录 3-8",
+        "合成记录 3-9",
+        "合成记录 3-10"
+      ],
+      [
+        "合成记录 4-1",
+        "合成记录 4-2",
+        "合成记录 4-3",
+        "合成记录 4-4",
+        "合成记录 4-5",
+        "合成记录 4-6",
+        "合成记录 4-7",
+        "合成记录 4-8",
+        "合成记录 4-9",
+        "合成记录 4-10"
+      ],
+      [
+        "合成记录 5-1",
+        "合成记录 5-2",
+        "合成记录 5-3",
+        "合成记录 5-4",
+        "合成记录 5-5",
+        "合成记录 5-6",
+        "合成记录 5-7",
+        "合成记录 5-8",
+        "合成记录 5-9",
+        "合成记录 5-10"
+      ],
+      [
+        "合成记录 6-1",
+        "合成记录 6-2",
+        "合成记录 6-3",
+        "合成记录 6-4",
+        "合成记录 6-5",
+        "合成记录 6-6",
+        "合成记录 6-7",
+        "合成记录 6-8",
+        "合成记录 6-9",
+        "合成记录 6-10"
+      ],
+      [
+        "合成记录 7-1",
+        "合成记录 7-2",
+        "合成记录 7-3",
+        "合成记录 7-4",
+        "合成记录 7-5",
+        "合成记录 7-6",
+        "合成记录 7-7",
+        "合成记录 7-8",
+        "合成记录 7-9",
+        "合成记录 7-10"
+      ],
+      [
+        "合成记录 8-1",
+        "合成记录 8-2",
+        "合成记录 8-3",
+        "合成记录 8-4",
+        "合成记录 8-5",
+        "合成记录 8-6",
+        "合成记录 8-7",
+        "合成记录 8-8",
+        "合成记录 8-9",
+        "合成记录 8-10"
+      ],
+      [
+        "合成记录 9-1",
+        "合成记录 9-2",
+        "合成记录 9-3",
+        "合成记录 9-4",
+        "合成记录 9-5",
+        "合成记录 9-6",
+        "合成记录 9-7",
+        "合成记录 9-8",
+        "合成记录 9-9",
+        "合成记录 9-10"
+      ],
+      [
+        "合成记录 10-1",
+        "合成记录 10-2",
+        "合成记录 10-3",
+        "合成记录 10-4",
+        "合成记录 10-5",
+        "合成记录 10-6",
+        "合成记录 10-7",
+        "合成记录 10-8",
+        "合成记录 10-9",
+        "合成记录 10-10"
+      ],
+      [
+        "合成记录 11-1",
+        "合成记录 11-2",
+        "合成记录 11-3",
+        "合成记录 11-4",
+        "合成记录 11-5",
+        "合成记录 11-6",
+        "合成记录 11-7",
+        "合成记录 11-8",
+        "合成记录 11-9",
+        "合成记录 11-10"
+      ],
+      [
+        "合成记录 12-1",
+        "合成记录 12-2",
+        "合成记录 12-3",
+        "合成记录 12-4",
+        "合成记录 12-5",
+        "合成记录 12-6",
+        "合成记录 12-7",
+        "合成记录 12-8",
+        "合成记录 12-9",
+        "合成记录 12-10"
+      ],
+      [
+        "合成记录 13-1",
+        "合成记录 13-2",
+        "合成记录 13-3",
+        "合成记录 13-4",
+        "合成记录 13-5",
+        "合成记录 13-6",
+        "合成记录 13-7",
+        "合成记录 13-8",
+        "合成记录 13-9",
+        "合成记录 13-10"
+      ],
+      [
+        "合成记录 14-1",
+        "合成记录 14-2",
+        "合成记录 14-3",
+        "合成记录 14-4",
+        "合成记录 14-5",
+        "合成记录 14-6",
+        "合成记录 14-7",
+        "合成记录 14-8",
+        "合成记录 14-9",
+        "合成记录 14-10"
+      ],
+      [
+        "合成记录 15-1",
+        "合成记录 15-2",
+        "合成记录 15-3",
+        "合成记录 15-4",
+        "合成记录 15-5",
+        "合成记录 15-6",
+        "合成记录 15-7",
+        "合成记录 15-8",
+        "合成记录 15-9",
+        "合成记录 15-10"
+      ],
+      [
+        "合成记录 16-1",
+        "合成记录 16-2",
+        "合成记录 16-3",
+        "合成记录 16-4",
+        "合成记录 16-5",
+        "合成记录 16-6",
+        "合成记录 16-7",
+        "合成记录 16-8",
+        "合成记录 16-9",
+        "合成记录 16-10"
+      ],
+      [
+        "合成记录 17-1",
+        "合成记录 17-2",
+        "合成记录 17-3",
+        "合成记录 17-4",
+        "合成记录 17-5",
+        "合成记录 17-6",
+        "合成记录 17-7",
+        "合成记录 17-8",
+        "合成记录 17-9",
+        "合成记录 17-10"
+      ],
+      [
+        "合成记录 18-1",
+        "合成记录 18-2",
+        "合成记录 18-3",
+        "合成记录 18-4",
+        "合成记录 18-5",
+        "合成记录 18-6",
+        "合成记录 18-7",
+        "合成记录 18-8",
+        "合成记录 18-9",
+        "合成记录 18-10"
+      ],
+      [
+        "合成记录 19-1",
+        "合成记录 19-2",
+        "合成记录 19-3",
+        "合成记录 19-4",
+        "合成记录 19-5",
+        "合成记录 19-6",
+        "合成记录 19-7",
+        "合成记录 19-8",
+        "合成记录 19-9",
+        "合成记录 19-10"
+      ],
+      [
+        "合成记录 20-1",
+        "合成记录 20-2",
+        "合成记录 20-3",
+        "合成记录 20-4",
+        "合成记录 20-5",
+        "合成记录 20-6",
+        "合成记录 20-7",
+        "合成记录 20-8",
+        "合成记录 20-9",
+        "合成记录 20-10"
+      ],
+      [
+        "合成记录 21-1",
+        "合成记录 21-2",
+        "合成记录 21-3",
+        "合成记录 21-4",
+        "合成记录 21-5",
+        "合成记录 21-6",
+        "合成记录 21-7",
+        "合成记录 21-8",
+        "合成记录 21-9",
+        "合成记录 21-10"
+      ],
+      [
+        "合成记录 22-1",
+        "合成记录 22-2",
+        "合成记录 22-3",
+        "合成记录 22-4",
+        "合成记录 22-5",
+        "合成记录 22-6",
+        "合成记录 22-7",
+        "合成记录 22-8",
+        "合成记录 22-9",
+        "合成记录 22-10"
+      ],
+      [
+        "合成记录 23-1",
+        "合成记录 23-2",
+        "合成记录 23-3",
+        "合成记录 23-4",
+        "合成记录 23-5",
+        "合成记录 23-6",
+        "合成记录 23-7",
+        "合成记录 23-8",
+        "合成记录 23-9",
+        "合成记录 23-10"
+      ],
+      [
+        "合成记录 24-1",
+        "合成记录 24-2",
+        "合成记录 24-3",
+        "合成记录 24-4",
+        "合成记录 24-5",
+        "合成记录 24-6",
+        "合成记录 24-7",
+        "合成记录 24-8",
+        "合成记录 24-9",
+        "合成记录 24-10"
+      ],
+      [
+        "合成记录 25-1",
+        "合成记录 25-2",
+        "合成记录 25-3",
+        "合成记录 25-4",
+        "合成记录 25-5",
+        "合成记录 25-6",
+        "合成记录 25-7",
+        "合成记录 25-8",
+        "合成记录 25-9",
+        "合成记录 25-10"
+      ],
+      [
+        "合成记录 26-1",
+        "合成记录 26-2",
+        "合成记录 26-3",
+        "合成记录 26-4",
+        "合成记录 26-5",
+        "合成记录 26-6",
+        "合成记录 26-7",
+        "合成记录 26-8",
+        "合成记录 26-9",
+        "合成记录 26-10"
+      ],
+      [
+        "合成记录 27-1",
+        "合成记录 27-2",
+        "合成记录 27-3",
+        "合成记录 27-4",
+        "合成记录 27-5",
+        "合成记录 27-6",
+        "合成记录 27-7",
+        "合成记录 27-8",
+        "合成记录 27-9",
+        "合成记录 27-10"
+      ]
+    ],
+    "xlsx_h2": [
+      "合成列 1",
+      "合成列 2",
+      "合成列 3",
+      "合成列 4",
+      "合成列 5",
+      "合成列 6",
+      "合成列 7"
+    ],
+    "xlsx_r2": [
+      [
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）"
+      ],
+      [
+        "合成记录 2-1",
+        "合成记录 2-2",
+        "合成记录 2-3",
+        "合成记录 2-4",
+        "合成记录 2-5",
+        "合成记录 2-6",
+        "合成记录 2-7"
+      ],
+      [
+        "合成记录 3-1",
+        "合成记录 3-2",
+        "合成记录 3-3",
+        "合成记录 3-4",
+        "合成记录 3-5",
+        "合成记录 3-6",
+        "合成记录 3-7"
+      ],
+      [
+        "合成记录 4-1",
+        "合成记录 4-2",
+        "合成记录 4-3",
+        "合成记录 4-4",
+        "合成记录 4-5",
+        "合成记录 4-6",
+        "合成记录 4-7"
+      ],
+      [
+        "合成记录 5-1",
+        "合成记录 5-2",
+        "合成记录 5-3",
+        "合成记录 5-4",
+        "合成记录 5-5",
+        "合成记录 5-6",
+        "合成记录 5-7"
+      ],
+      [
+        "合成记录 6-1",
+        "合成记录 6-2",
+        "合成记录 6-3",
+        "合成记录 6-4",
+        "合成记录 6-5",
+        "合成记录 6-6",
+        "合成记录 6-7"
+      ],
+      [
+        "合成记录 7-1",
+        "合成记录 7-2",
+        "合成记录 7-3",
+        "合成记录 7-4",
+        "合成记录 7-5",
+        "合成记录 7-6",
+        "合成记录 7-7"
+      ]
+    ],
+    "xlsx_h3": [
+      "合成列 1",
+      "合成列 2",
+      "合成列 3",
+      "合成列 4",
+      "合成列 5",
+      "合成列 6",
+      "合成列 7"
+    ],
+    "xlsx_r3": [
+      [
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）"
+      ],
+      [
+        "合成记录 2-1",
+        "合成记录 2-2",
+        "合成记录 2-3",
+        "合成记录 2-4",
+        "合成记录 2-5",
+        "合成记录 2-6",
+        "合成记录 2-7"
+      ],
+      [
+        "合成记录 3-1",
+        "合成记录 3-2",
+        "合成记录 3-3",
+        "合成记录 3-4",
+        "合成记录 3-5",
+        "合成记录 3-6",
+        "合成记录 3-7"
+      ],
+      [
+        "合成记录 4-1",
+        "合成记录 4-2",
+        "合成记录 4-3",
+        "合成记录 4-4",
+        "合成记录 4-5",
+        "合成记录 4-6",
+        "合成记录 4-7"
+      ],
+      [
+        "合成记录 5-1",
+        "合成记录 5-2",
+        "合成记录 5-3",
+        "合成记录 5-4",
+        "合成记录 5-5",
+        "合成记录 5-6",
+        "合成记录 5-7"
+      ],
+      [
+        "合成记录 6-1",
+        "合成记录 6-2",
+        "合成记录 6-3",
+        "合成记录 6-4",
+        "合成记录 6-5",
+        "合成记录 6-6",
+        "合成记录 6-7"
+      ],
+      [
+        "合成记录 7-1",
+        "合成记录 7-2",
+        "合成记录 7-3",
+        "合成记录 7-4",
+        "合成记录 7-5",
+        "合成记录 7-6",
+        "合成记录 7-7"
+      ],
+      [
+        "合成记录 8-1",
+        "合成记录 8-2",
+        "合成记录 8-3",
+        "合成记录 8-4",
+        "合成记录 8-5",
+        "合成记录 8-6",
+        "合成记录 8-7"
+      ],
+      [
+        "合成记录 9-1",
+        "合成记录 9-2",
+        "合成记录 9-3",
+        "合成记录 9-4",
+        "合成记录 9-5",
+        "合成记录 9-6",
+        "合成记录 9-7"
+      ],
+      [
+        "合成记录 10-1",
+        "合成记录 10-2",
+        "合成记录 10-3",
+        "合成记录 10-4",
+        "合成记录 10-5",
+        "合成记录 10-6",
+        "合成记录 10-7"
+      ]
+    ],
+    "xlsx_h4": [
+      "合成列 1",
+      "合成列 2",
+      "合成列 3",
+      "合成列 4",
+      "合成列 5",
+      "合成列 6"
+    ],
+    "xlsx_r4": [
+      [
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）"
+      ],
+      [
+        "合成记录 2-1",
+        "合成记录 2-2",
+        "合成记录 2-3",
+        "合成记录 2-4",
+        "合成记录 2-5",
+        "合成记录 2-6"
+      ],
+      [
+        "合成记录 3-1",
+        "合成记录 3-2",
+        "合成记录 3-3",
+        "合成记录 3-4",
+        "合成记录 3-5",
+        "合成记录 3-6"
+      ],
+      [
+        "合成记录 4-1",
+        "合成记录 4-2",
+        "合成记录 4-3",
+        "合成记录 4-4",
+        "合成记录 4-5",
+        "合成记录 4-6"
+      ],
+      [
+        "合成记录 5-1",
+        "合成记录 5-2",
+        "合成记录 5-3",
+        "合成记录 5-4",
+        "合成记录 5-5",
+        "合成记录 5-6"
+      ],
+      [
+        "合成记录 6-1",
+        "合成记录 6-2",
+        "合成记录 6-3",
+        "合成记录 6-4",
+        "合成记录 6-5",
+        "合成记录 6-6"
+      ],
+      [
+        "合成记录 7-1",
+        "合成记录 7-2",
+        "合成记录 7-3",
+        "合成记录 7-4",
+        "合成记录 7-5",
+        "合成记录 7-6"
+      ],
+      [
+        "合成记录 8-1",
+        "合成记录 8-2",
+        "合成记录 8-3",
+        "合成记录 8-4",
+        "合成记录 8-5",
+        "合成记录 8-6"
+      ]
+    ],
+    "xlsx_h5": [
+      "合成列 1",
+      "合成列 2",
+      "合成列 3",
+      "合成列 4",
+      "合成列 5",
+      "合成列 6"
+    ],
+    "xlsx_r5": [
+      [
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）"
+      ],
+      [
+        "合成记录 2-1",
+        "合成记录 2-2",
+        "合成记录 2-3",
+        "合成记录 2-4",
+        "合成记录 2-5",
+        "合成记录 2-6"
+      ],
+      [
+        "合成记录 3-1",
+        "合成记录 3-2",
+        "合成记录 3-3",
+        "合成记录 3-4",
+        "合成记录 3-5",
+        "合成记录 3-6"
+      ],
+      [
+        "合成记录 4-1",
+        "合成记录 4-2",
+        "合成记录 4-3",
+        "合成记录 4-4",
+        "合成记录 4-5",
+        "合成记录 4-6"
+      ],
+      [
+        "合成记录 5-1",
+        "合成记录 5-2",
+        "合成记录 5-3",
+        "合成记录 5-4",
+        "合成记录 5-5",
+        "合成记录 5-6"
+      ],
+      [
+        "合成记录 6-1",
+        "合成记录 6-2",
+        "合成记录 6-3",
+        "合成记录 6-4",
+        "合成记录 6-5",
+        "合成记录 6-6"
+      ],
+      [
+        "合成记录 7-1",
+        "合成记录 7-2",
+        "合成记录 7-3",
+        "合成记录 7-4",
+        "合成记录 7-5",
+        "合成记录 7-6"
+      ],
+      [
+        "合成记录 8-1",
+        "合成记录 8-2",
+        "合成记录 8-3",
+        "合成记录 8-4",
+        "合成记录 8-5",
+        "合成记录 8-6"
+      ],
+      [
+        "合成记录 9-1",
+        "合成记录 9-2",
+        "合成记录 9-3",
+        "合成记录 9-4",
+        "合成记录 9-5",
+        "合成记录 9-6"
+      ]
+    ],
+    "xlsx_h6": [
+      "合成列 1",
+      "合成列 2",
+      "合成列 3",
+      "合成列 4",
+      "合成列 5",
+      "合成列 6",
+      "合成列 7",
+      "合成列 8",
+      "合成列 9",
+      "合成列 10"
+    ],
+    "xlsx_r6": [
+      [
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）"
+      ],
+      [
+        "合成记录 2-1",
+        "合成记录 2-2",
+        "合成记录 2-3",
+        "合成记录 2-4",
+        "合成记录 2-5",
+        "合成记录 2-6",
+        "合成记录 2-7",
+        "合成记录 2-8",
+        "合成记录 2-9",
+        "合成记录 2-10"
+      ],
+      [
+        "合成记录 3-1",
+        "合成记录 3-2",
+        "合成记录 3-3",
+        "合成记录 3-4",
+        "合成记录 3-5",
+        "合成记录 3-6",
+        "合成记录 3-7",
+        "合成记录 3-8",
+        "合成记录 3-9",
+        "合成记录 3-10"
+      ],
+      [
+        "合成记录 4-1",
+        "合成记录 4-2",
+        "合成记录 4-3",
+        "合成记录 4-4",
+        "合成记录 4-5",
+        "合成记录 4-6",
+        "合成记录 4-7",
+        "合成记录 4-8",
+        "合成记录 4-9",
+        "合成记录 4-10"
+      ],
+      [
+        "合成记录 5-1",
+        "合成记录 5-2",
+        "合成记录 5-3",
+        "合成记录 5-4",
+        "合成记录 5-5",
+        "合成记录 5-6",
+        "合成记录 5-7",
+        "合成记录 5-8",
+        "合成记录 5-9",
+        "合成记录 5-10"
+      ],
+      [
+        "合成记录 6-1",
+        "合成记录 6-2",
+        "合成记录 6-3",
+        "合成记录 6-4",
+        "合成记录 6-5",
+        "合成记录 6-6",
+        "合成记录 6-7",
+        "合成记录 6-8",
+        "合成记录 6-9",
+        "合成记录 6-10"
+      ]
+    ],
+    "xlsx_h7": [
+      "合成列 1",
+      "合成列 2",
+      "合成列 3",
+      "合成列 4",
+      "合成列 5",
+      "合成列 6"
+    ],
+    "xlsx_r7": [
+      [
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）",
+        "阶段 A（合成）"
+      ],
+      [
+        "合成记录 2-1",
+        "合成记录 2-2",
+        "合成记录 2-3",
+        "合成记录 2-4",
+        "合成记录 2-5",
+        "合成记录 2-6"
+      ],
+      [
+        "合成记录 3-1",
+        "合成记录 3-2",
+        "合成记录 3-3",
+        "合成记录 3-4",
+        "合成记录 3-5",
+        "合成记录 3-6"
+      ],
+      [
+        "合成记录 4-1",
+        "合成记录 4-2",
+        "合成记录 4-3",
+        "合成记录 4-4",
+        "合成记录 4-5",
+        "合成记录 4-6"
+      ],
+      [
+        "合成记录 5-1",
+        "合成记录 5-2",
+        "合成记录 5-3",
+        "合成记录 5-4",
+        "合成记录 5-5",
+        "合成记录 5-6"
+      ]
+    ]
+  }
+}

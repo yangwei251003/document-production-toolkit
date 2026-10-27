@@ -1,0 +1,302 @@
+[
+  {
+    "path": ".github/workflows/verify-and-pages.yml",
+    "bytes": 994,
+    "sha256": "37356eb97ceeaecc898df55c880b15701b386660f136de9a30f8ea9480332f9b"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 107,
+    "sha256": "abb4b0580dfed94cafe0ff0b00c750685376c0e96d941bf72f14f5ba50a501f7"
+  },
+  {
+    "path": "archive/career/assemble_ppt_delivery.py",
+    "bytes": 13196,
+    "sha256": "e12d70ab67b77d248d4b5e0516883758c84c9d3bdb850eabd0d38b2f7bfbad77"
+  },
+  {
+    "path": "archive/career/assemble_v2.py",
+    "bytes": 8599,
+    "sha256": "aa38cb755e0fe59011cff9fec1d3368ce382620dbe24f7e25bf1a69eff093580"
+  },
+  {
+    "path": "archive/career/build_ppt_review.py",
+    "bytes": 6938,
+    "sha256": "f1ac46e496dd25107b3f3ccfd1cf805a1df30ccfeca2689f1d888f96370eb1b8"
+  },
+  {
+    "path": "archive/career/build_resumes.py",
+    "bytes": 13641,
+    "sha256": "83adc019d5b7c54a41fcb8f93bd987448057f25a922d5f8bbb77d2171c964c8b"
+  },
+  {
+    "path": "archive/career/export_word.ps1",
+    "bytes": 1458,
+    "sha256": "0447f56c7c55b6a0c78829d8d40ad264dd849d079feb51f49913c153fdeb69ee"
+  },
+  {
+    "path": "archive/career/fetch_ppt_references.py",
+    "bytes": 1511,
+    "sha256": "a4670c3c08c72a9764f058eb791d42280c729ce6565468460a3a9679b9db4098"
+  },
+  {
+    "path": "archive/career/finalize_honors.py",
+    "bytes": 2286,
+    "sha256": "808ea0b92b35737e1a7cb5d175f75a48a586920a4543899d4d1116b9a04c02e3"
+  },
+  {
+    "path": "archive/career/finalize_ppt_delivery.py",
+    "bytes": 6083,
+    "sha256": "e204ce0e806d010ad0bd753cf8b6f9e3114bd49775250ecdcd136b44d31ecf6d"
+  },
+  {
+    "path": "archive/career/finalize_v2.py",
+    "bytes": 4931,
+    "sha256": "6f4dca025108229a39e6138311751148cb4ad0cb7541411644aeb680a57bd8de"
+  },
+  {
+    "path": "archive/career/package_delivery.py",
+    "bytes": 3366,
+    "sha256": "bcf7f13ec58be242cb4db99963f79bdc82dcbdbd69844e3cc06e5572f19d1650"
+  },
+  {
+    "path": "archive/career/prepare_ppt_generation.py",
+    "bytes": 10162,
+    "sha256": "15ce624fbca59b1eb625f0194c1500abf221871e2493aa555ee03e7f030a977e"
+  },
+  {
+    "path": "archive/career/prepare_v2.py",
+    "bytes": 14718,
+    "sha256": "209c598e6d027e954572c10d32d815d48c8557d3accbfa1143109a6a4dd503d3"
+  },
+  {
+    "path": "archive/career/record_ppt_image.py",
+    "bytes": 1293,
+    "sha256": "3c183615a0370869ec321fdf6fdf61120787d6185f6762cff52761b4982ed1b4"
+  },
+  {
+    "path": "archive/career/record_v2_image.py",
+    "bytes": 1311,
+    "sha256": "f59431dedbe81c342286a994b4c0d465513df85e6aeea1862e6f3b8aad5b0b3d"
+  },
+  {
+    "path": "archive/career/render_and_check.py",
+    "bytes": 2955,
+    "sha256": "cf2bc301f767b644e9dc167c53ef15f3bcee8cf82f482bc4dd1e4060d756f745"
+  },
+  {
+    "path": "archive/career/revision_assets.py",
+    "bytes": 1502,
+    "sha256": "5c20c9f832c79f7dfe3306646915585c9c545a0427bb6a2d44cb6f9a56d883c7"
+  },
+  {
+    "path": "archive/career/revision_download_selected.py",
+    "bytes": 1558,
+    "sha256": "4c9ec387a76fbba6b4d07893d277940b35e0563f9b4f579c4f5ac8143936d56e"
+  },
+  {
+    "path": "archive/career/update_honors.py",
+    "bytes": 6019,
+    "sha256": "8006492f94f8969a81e750c3a03f058016b62595fac472d9f43ae1fe5f88261a"
+  },
+  {
+    "path": "archive/career/verify_ppt_native.ps1",
+    "bytes": 2403,
+    "sha256": "63aaba2fdbde58b2cc16c3e299d8910488ba3443ab1929acadcd62e319d18284"
+  },
+  {
+    "path": "archive/career/verify_v2_native.ps1",
+    "bytes": 2441,
+    "sha256": "979e5bae4aebe2bd9048496600155da15e7b2c4f50d9841bc47a2833afc90fb8"
+  },
+  {
+    "path": "archive/scholarship/国家奖学金申请表_填写版/01_转换并导出.ps1",
+    "bytes": 1080,
+    "sha256": "a6f2721f05dc98c914b693fc99b92bfa516cc9eb010f0b75faab7f50919f2acf"
+  },
+  {
+    "path": "archive/scholarship/国家奖学金申请表_填写版/02_生成两页申请表.py",
+    "bytes": 11455,
+    "sha256": "562765699f86d7fbfa3887832d3f32b90d8f71dff107a1a6d7d9d303779ca117"
+  },
+  {
+    "path": "archive/scholarship/国家奖学金申请表_填写版/03_结构与内容校验.py",
+    "bytes": 1485,
+    "sha256": "68569fef203c3bdcfda1cf5dd4ab0c0bd260602e52b6dcf3ce9c1b59fb6b015e"
+  },
+  {
+    "path": "archive/scholarship/国家奖学金申请表_填写版/04_按原格式去除修订并转DOCX.py",
+    "bytes": 2332,
+    "sha256": "4c4c95963e35add4d08ca5a85144e0657133f57a5b45b6730c7fc90746541015"
+  },
+  {
+    "path": "archive/scholarship/国家奖学金答辩_修订版/生成与检查记录/render_sources.py",
+    "bytes": 3035,
+    "sha256": "9907c216868f4f898ee63200e4ecd9de4d07629b05a7a0e7a01d524b5fb45378"
+  },
+  {
+    "path": "archive/scholarship/国家奖学金答辩_修订版/生成与检查记录/打包交付.py",
+    "bytes": 2251,
+    "sha256": "6521da257b633c2e10883b5e99145c6617d57ead0bbf1a557dd0d07c5f933601"
+  },
+  {
+    "path": "archive/scholarship/国家奖学金答辩_最终版/制作记录/assemble_final.py",
+    "bytes": 10237,
+    "sha256": "8c5c5d0d9f0d06000f6a706067c49c9fa89df78610ab1019b5b6fe5f057f3b6a"
+  },
+  {
+    "path": "archive/scholarship/国家奖学金答辩_最终版/制作记录/verify_final.py",
+    "bytes": 2405,
+    "sha256": "0239b11e2d8b5be2b00486936f299b112fd8700bfd8a01a15ae783e24856d79a"
+  },
+  {
+    "path": "archive/scholarship/整理说明与索引/工具/add_new.py",
+    "bytes": 3123,
+    "sha256": "851bd41f1c09fcc522524ec5cbe811ead87ee62f7293442f9f6bdcf00fa67ed9"
+  },
+  {
+    "path": "archive/scholarship/整理说明与索引/工具/build_16page_plan.py",
+    "bytes": 24086,
+    "sha256": "98e585ef7bce7e3451322a81437406d0f3a79b3292603cdc6e6775b0f3b21b08"
+  },
+  {
+    "path": "archive/scholarship/整理说明与索引/工具/organize.py",
+    "bytes": 6986,
+    "sha256": "0e3744f7a82a751a5e5f7e1b1087e3b84a52b37bce883c2a4481f28027e05678"
+  },
+  {
+    "path": "archive/scholarship/整理说明与索引/工具/organize_round3.py",
+    "bytes": 7535,
+    "sha256": "539a86f9399e8a1dc4187119776ebec4ca39d4584dbe8e80f408199effe5329d"
+  },
+  {
+    "path": "archive/scholarship/整理说明与索引/工具/prepare.py",
+    "bytes": 1622,
+    "sha256": "ac736c1a82d55dd6ead95ab2648625f4548287155b75d352f51c496a363ccd0a"
+  },
+  {
+    "path": "archive/scholarship/整理说明与索引/工具/read_video.py",
+    "bytes": 1777,
+    "sha256": "40261eca28b0b74a1d63838d3709098b206a6dca56bfe26f078c77596b4a671c"
+  },
+  {
+    "path": "archive/scholarship/整理说明与索引/工具/update_context.py",
+    "bytes": 2677,
+    "sha256": "81ae27d2aac3f8a3197cc27e3b7b80ace182cc6d6367a2441c0aa50cece7b566"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "bytes": 632,
+    "sha256": "04760f06c2e4eeb804a3306f7c8dff2d30620721bff103d630f0c1fac26670aa"
+  },
+  {
+    "path": "docs/archive-dependencies.json",
+    "bytes": 2779,
+    "sha256": "f0abd5ccb9cbc992066b6793f33ba9b4debba92a9ec2428f44acebf5169651b2"
+  },
+  {
+    "path": "docs/archive-guide.md",
+    "bytes": 4152,
+    "sha256": "deccdb10faa9ba7e05aa55632fe4af187be11ee6271461cb1b6ba91819c3acda"
+  },
+  {
+    "path": "docs/images/demo-real.png",
+    "bytes": 79974,
+    "sha256": "03769ac4478b4c8d98f1e8c6b4cd03fef325da4f2fa12a4e8634b35bf96ed236"
+  },
+  {
+    "path": "docs/PRIVACY.md",
+    "bytes": 771,
+    "sha256": "cb19f7bee53a5ce916b4bf61b19ab7597b11fa53957701efbb95ff5eaef0cdf6"
+  },
+  {
+    "path": "docs/source-map.json",
+    "bytes": 28336,
+    "sha256": "d3f2abe6d9a926855c5b59889605e745dceb13cf609481d4c6f76e2e79407747"
+  },
+  {
+    "path": "document_toolkit/__init__.py",
+    "bytes": 105,
+    "sha256": "375e897b35849fa8f1a463bbeea1da5e5e9ea3388f85c6cc28e38c861b0905c5"
+  },
+  {
+    "path": "document_toolkit/__main__.py",
+    "bytes": 6904,
+    "sha256": "74a4909f13eae149273ce1017e6d5413c0dc5a981935ed586f40aa7d7f0767be"
+  },
+  {
+    "path": "document_toolkit/runtime.py",
+    "bytes": 1209,
+    "sha256": "3dfd965f1ce0b20dcddca1018e9df8fe7c9a3e6baa00d12e824b98d0473cf879"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1091,
+    "sha256": "6ab5a2e12bfc47854b58d5f763700e763ae67ba6bdd9963c9f327ae0ad6af39c"
+  },
+  {
+    "path": "README.md",
+    "bytes": 3284,
+    "sha256": "de26f1f74c8c380099084ea5586b9b95a3528a3055dbaf2105e1c1c0323b0742"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 101,
+    "sha256": "89671db16c1e4d55924080204023ad7222eb20927d961cf7a7f7b2944e7fad90"
+  },
+  {
+    "path": "site/downloads/01_示例同学_比赛商务版_示例.docx",
+    "bytes": 40965,
+    "sha256": "e87de2a60e4ddfe8a7c7b6dc15ca0d59b3e296272a13cb7ddcf05134b4bc1ae7"
+  },
+  {
+    "path": "site/downloads/02_示例同学_经历详细版_示例.docx",
+    "bytes": 42237,
+    "sha256": "4d73d710f96765138e170928abc96a967926bac18a72eb7c61baa47a29fc7944"
+  },
+  {
+    "path": "site/downloads/03_示例同学_电力企业定向版_示例.docx",
+    "bytes": 40951,
+    "sha256": "34fdeba0ff894defbf118176a8e180adf0c3d56df3b3bbd391395be09291d3fc"
+  },
+  {
+    "path": "site/downloads/04_示例同学_海外方向定向版_示例.docx",
+    "bytes": 40978,
+    "sha256": "a950e9d0c64479ae8a79881e751528075c249dced6362c66af79662b7bb8f21e"
+  },
+  {
+    "path": "site/index.html",
+    "bytes": 13421,
+    "sha256": "4ac7ca44bd23f63426f6c5e97469e39dd47a33411a72afd6dd16d0f836c7ee7b"
+  },
+  {
+    "path": "tests/test_toolkit.py",
+    "bytes": 2567,
+    "sha256": "5c0c013cb0d290712ebbc8e72b3d9f300822af397cbbe4dc46dad50011da9e73"
+  },
+  {
+    "path": "third-party/license-sources.json",
+    "bytes": 602,
+    "sha256": "6cad0d445f262859fac560c699d29948e971d734344c47f9e77c093e01e67472"
+  },
+  {
+    "path": "third-party/licenses/lxml-LICENSE.txt",
+    "bytes": 1538,
+    "sha256": "e7c3ce8d76331b0101cc46790ab43958ea90a364bcf962ed8763d5a818340e69"
+  },
+  {
+    "path": "third-party/licenses/Pillow-LICENSE",
+    "bytes": 57500,
+    "sha256": "2adf9e02e41bdb6e439dc5719ed6c5d1027611f8961e0abc8b2f35cf15f1e887"
+  },
+  {
+    "path": "third-party/licenses/python-docx-LICENSE",
+    "bytes": 1104,
+    "sha256": "7652f271e46d0d533e9dc463f3b5fcbdcacf4d6a9c8d6b554d15efd0f37f6132"
+  },
+  {
+    "path": "THIRD_PARTY_NOTICES.md",
+    "bytes": 2116,
+    "sha256": "ec705e43e202134e8e71e847864c5a2372d2942718d954d86c7c159a7cde067b"
+  }
+]

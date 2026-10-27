@@ -1,0 +1,483 @@
+[
+  {
+    "id": "session/2026-10-07-21-33-31/.参赛信息表.ref/build.py",
+    "source_relative_path": "2026-10-07-21-33-31/.参赛信息表.ref/build.py",
+    "original_sha256": "a8d515d79f2ca2496d9f0ac72fa1fe13f0b2543d8c9522d937ff2bb7615ea175",
+    "archived_path": "archive/session/2026-10-07-21-33-31/.参赛信息表.ref/build.py",
+    "original_bytes": 4991,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "xl_color"
+      ],
+      "if": 2,
+      "for": 9,
+      "while": 0,
+      "try": 1
+    },
+    "text_fixture_entries": 0,
+    "archived_sha256": "9ed8e4b82e871ae70009fcb8f2b0e59c169941d94f7f9355a27a3f36017aac0d"
+  },
+  {
+    "id": "session/2026-10-04-22-46-18/build_reader.py",
+    "source_relative_path": "2026-10-04-22-46-18/build_reader.py",
+    "original_sha256": "7335b8afabf3ba056331d8b00a4331936b4c6a323b9749dbf0f4e00f00d59e38",
+    "archived_path": "archive/session/2026-10-04-22-46-18/build_reader.py",
+    "original_bytes": 54421,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "load",
+        "md_inline",
+        "md_to_html",
+        "human_size"
+      ],
+      "if": 10,
+      "for": 7,
+      "while": 4,
+      "try": 0
+    },
+    "text_fixture_entries": 9,
+    "archived_sha256": "45a3d899997ffe2bc4f915a054f7b91bc4b73f8aabd8ae2817586ad9d2f6ed1f"
+  },
+  {
+    "id": "session/2026-09-15-10-34-50/_work/make_flowchart.py",
+    "source_relative_path": "2026-09-15-10-34-50/_work/make_flowchart.py",
+    "original_sha256": "641adc757db58ae4384e07cc82ae32d91938ba014c65922fe80c1fdd25950687",
+    "archived_path": "archive/session/2026-09-15-10-34-50/_work/make_flowchart.py",
+    "original_bytes": 10084,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "font",
+        "wrap",
+        "measure_note",
+        "note_height",
+        "draw_round",
+        "arrow",
+        "chevron"
+      ],
+      "if": 7,
+      "for": 11,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 3,
+    "archived_sha256": "359d8ce5b0344c636be55456b9443c1a8724ce21722c2b1c0023ae9f1c93ec86"
+  },
+  {
+    "id": "session/2026-09-15-10-34-50/_work/make_payload.py",
+    "source_relative_path": "2026-09-15-10-34-50/_work/make_payload.py",
+    "original_sha256": "5d4a6ee5fb7f84f90a789c7dbbed10c4c6d750973fbae46bfdd0fc80418ddeff",
+    "archived_path": "archive/session/2026-09-15-10-34-50/_work/make_payload.py",
+    "original_bytes": 7559,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "P"
+      ],
+      "if": 0,
+      "for": 1,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 15,
+    "archived_sha256": "339a4e179d1cc0414be09659b5a69fb3d4272653439dcea1c0057216493fe03c"
+  },
+  {
+    "id": "session/2026-09-15-10-34-50/_work/make_signature3.py",
+    "source_relative_path": "2026-09-15-10-34-50/_work/make_signature3.py",
+    "original_sha256": "edf7e37318bdd565dbc757d0120e15cbf1f5922f641cd52b17c8031208d7e765",
+    "archived_path": "archive/session/2026-09-15-10-34-50/_work/make_signature3.py",
+    "original_bytes": 2646,
+    "execution_class": "signature-archive",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "make_signature"
+      ],
+      "if": 2,
+      "for": 4,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 1,
+    "archived_sha256": "1513748ddd7dc37b9686e0ef7c3f4e40d8fc80029d8c4d71a2d9ade62734c44a"
+  },
+  {
+    "id": "session/2026-09-14-20-16-02/work/a2.py",
+    "source_relative_path": "2026-09-14-20-16-02/work/a2.py",
+    "original_sha256": "d0094bf7cda6b0f85f6398aaadcded1b468a89be6b52b4426044bfda2a913354",
+    "archived_path": "archive/session/2026-09-14-20-16-02/work/a2.py",
+    "original_bytes": 1143,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "read"
+      ],
+      "if": 0,
+      "for": 2,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 4,
+    "archived_sha256": "011bf9779da11d13d28796e78fd2c9b7784b90521555d1cb993c5f81441f87c2"
+  },
+  {
+    "id": "session/2026-09-14-20-16-02/work/a3.py",
+    "source_relative_path": "2026-09-14-20-16-02/work/a3.py",
+    "original_sha256": "e9414707634f5fd889ba142c2e6297b882918a31a51c6bc0873b4a0aba0d64fa",
+    "archived_path": "archive/session/2026-09-14-20-16-02/work/a3.py",
+    "original_bytes": 1768,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "read"
+      ],
+      "if": 1,
+      "for": 5,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 1,
+    "archived_sha256": "e974389ee6edc18033b811e1961bbb9f0bacc0f2febbbee0382a4c3ae0ad8941"
+  },
+  {
+    "id": "session/2026-09-14-20-16-02/work/a4.py",
+    "source_relative_path": "2026-09-14-20-16-02/work/a4.py",
+    "original_sha256": "a68947fee656a8f319b3e97c0792ee9fb3051f17c3fadc7290a8dfb4d8e26494",
+    "archived_path": "archive/session/2026-09-14-20-16-02/work/a4.py",
+    "original_bytes": 2110,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "read",
+        "png_size",
+        "jpg_size"
+      ],
+      "if": 7,
+      "for": 3,
+      "while": 1,
+      "try": 2
+    },
+    "text_fixture_entries": 0,
+    "archived_sha256": "36980f1c23b8ad1ce198f1c7446060a49dbd3bc480b9941dd18595e70df29c0e"
+  },
+  {
+    "id": "session/2026-09-14-20-16-02/work/a5.py",
+    "source_relative_path": "2026-09-14-20-16-02/work/a5.py",
+    "original_sha256": "9ef75252f8d155ee896ba082038d095d6a91b203c5e149ed3743e8e0dbc41aad",
+    "archived_path": "archive/session/2026-09-14-20-16-02/work/a5.py",
+    "original_bytes": 768,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "read"
+      ],
+      "if": 0,
+      "for": 0,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 1,
+    "archived_sha256": "9d7279e2da5e09b225d45d7c0f8e78285d4a5275005af01f2482b118bb9ebfb5"
+  },
+  {
+    "id": "session/2026-09-14-20-16-02/work/analyze.py",
+    "source_relative_path": "2026-09-14-20-16-02/work/analyze.py",
+    "original_sha256": "1e3b45f5394b7c3c7c49ecbe542f5b7ed218af2538a146df7f58353b56a1e557",
+    "archived_path": "archive/session/2026-09-14-20-16-02/work/analyze.py",
+    "original_bytes": 1584,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "read"
+      ],
+      "if": 0,
+      "for": 3,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 3,
+    "archived_sha256": "491294b84a5bef116abb96929bf7ed6c3a7b7e82d2fdc032bfc6f1722b0e63f0"
+  },
+  {
+    "id": "session/2026-09-14-20-16-02/work/build_fix.py",
+    "source_relative_path": "2026-09-14-20-16-02/work/build_fix.py",
+    "original_sha256": "aa8d0b889b14c6e8187a01122f850b4e7da75ba504c311d59581df0ae34d1809",
+    "archived_path": "archive/session/2026-09-14-20-16-02/work/build_fix.py",
+    "original_bytes": 10593,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "cellstr",
+        "png_size",
+        "jpg_size",
+        "img_size",
+        "col_px",
+        "row_px"
+      ],
+      "if": 13,
+      "for": 13,
+      "while": 1,
+      "try": 0
+    },
+    "text_fixture_entries": 4,
+    "archived_sha256": "7b76f10082d4ce7769bed34e00a5bf380e1835ca17c47598e4d214ea4161e883"
+  },
+  {
+    "id": "session/2026-09-14-20-16-02/work/make_lite.py",
+    "source_relative_path": "2026-09-14-20-16-02/work/make_lite.py",
+    "original_sha256": "48134df0b56c8b2607a8f14b60371455392d95be021485884ec138ea8602da74",
+    "archived_path": "archive/session/2026-09-14-20-16-02/work/make_lite.py",
+    "original_bytes": 3303,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if": 5,
+      "for": 4,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 2,
+    "archived_sha256": "e2120d8a8a81c787c056d00dcd3e2de10799b7e4cc1ca6b8a9f391f802e53fc8"
+  },
+  {
+    "id": "session/2026-09-14-20-16-02/work/render_preview.py",
+    "source_relative_path": "2026-09-14-20-16-02/work/render_preview.py",
+    "original_sha256": "c20cc260e6fd0a20f17dbd8b2c0e49d7160419de90d0339b6e08fd3479084fa2",
+    "archived_path": "archive/session/2026-09-14-20-16-02/work/render_preview.py",
+    "original_bytes": 5967,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "col_px",
+        "row_px"
+      ],
+      "if": 11,
+      "for": 14,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 2,
+    "archived_sha256": "7604034b76e0bd9452fb006ddd6f7fda26afbde3a6d709abad306e999fbb7557"
+  },
+  {
+    "id": "session/2026-09-14-20-16-02/work/verify.py",
+    "source_relative_path": "2026-09-14-20-16-02/work/verify.py",
+    "original_sha256": "bfa7df580616ec1ff351b491be08f56e73dace93614fc56e8f824f88a383b128",
+    "archived_path": "archive/session/2026-09-14-20-16-02/work/verify.py",
+    "original_bytes": 3324,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if": 7,
+      "for": 4,
+      "while": 0,
+      "try": 1
+    },
+    "text_fixture_entries": 0,
+    "archived_sha256": "b96aa810f60ed4e5f8013ea5b9936f387ee1b5c922953c11f96c4f6458452e6e"
+  },
+  {
+    "id": "session/2026-09-08-23-38-21/setup_2page.py",
+    "source_relative_path": "2026-09-08-23-38-21/setup_2page.py",
+    "original_sha256": "5097e74dab1ef6fad0483beae7798a70cadf87ac77c43b36c72240b482db8b7b",
+    "archived_path": "archive/session/2026-09-08-23-38-21/setup_2page.py",
+    "original_bytes": 1458,
+    "execution_class": "office-archive",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if": 1,
+      "for": 3,
+      "while": 0,
+      "try": 1
+    },
+    "text_fixture_entries": 0,
+    "archived_sha256": "3920856faff74bb4ace235518af1f4a6356433518d274d6ce5d1ef38624f0d77"
+  },
+  {
+    "id": "session/2026-09-08-23-38-21/setup_print.py",
+    "source_relative_path": "2026-09-08-23-38-21/setup_print.py",
+    "original_sha256": "6616a24818d1279877a5d5a689e0a6311024c0ffc581f0165fcbebf3a58d393b",
+    "archived_path": "archive/session/2026-09-08-23-38-21/setup_print.py",
+    "original_bytes": 1493,
+    "execution_class": "office-archive",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if": 1,
+      "for": 2,
+      "while": 0,
+      "try": 1
+    },
+    "text_fixture_entries": 0,
+    "archived_sha256": "de310fc603be0d3c7d817d9536a2beccf8ba6d7b3aef33bf1e3a4ca4dcc5a11a"
+  },
+  {
+    "id": "session/2026-09-08-23-38-21/test_open.py",
+    "source_relative_path": "2026-09-08-23-38-21/test_open.py",
+    "original_sha256": "3820f7edcff73355612462034cb186b0358a1742f262e3f01267dc282b11eb61",
+    "archived_path": "archive/session/2026-09-08-23-38-21/test_open.py",
+    "original_bytes": 647,
+    "execution_class": "office-archive",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if": 0,
+      "for": 1,
+      "while": 0,
+      "try": 2
+    },
+    "text_fixture_entries": 0,
+    "archived_sha256": "041f7f28de055346ec30202cb4d6200be7d98868200a81086a9410780814f826"
+  },
+  {
+    "id": "session/2026-09-07-10-57-08/generate_v2.py",
+    "source_relative_path": "2026-09-07-10-57-08/generate_v2.py",
+    "original_sha256": "57533d10e3d3f7eac91bb41a6227454c3423fd7a4f40f985944ba87a2dd78f04",
+    "archived_path": "archive/session/2026-09-07-10-57-08/generate_v2.py",
+    "original_bytes": 55210,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "w",
+        "r",
+        "unpack_template",
+        "replace_header_logo",
+        "add_cover_logo",
+        "add_report_images",
+        "load_document",
+        "set_default_run",
+        "make_run",
+        "make_image_para",
+        "make_p",
+        "add_to_body",
+        "page_break",
+        "make_table",
+        "build_cover",
+        "section_title",
+        "subsection_title",
+        "body_para",
+        "caption",
+        "centered_title",
+        "build_abstract",
+        "build_toc",
+        "build_section_1",
+        "build_section_2",
+        "build_section_3",
+        "build_section_4",
+        "build_section_5",
+        "build_section_6",
+        "build_section_7",
+        "build_section_8",
+        "build_section_9",
+        "build_references",
+        "build_appendix",
+        "finalize_document",
+        "repack_docx",
+        "main",
+        "add_img"
+      ],
+      "if": 33,
+      "for": 17,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 76,
+    "archived_sha256": "dee74f648bee7b502bf1c4739b4f3c59e224c8d57dbacbd9942334724c443b67"
+  },
+  {
+    "id": "session/2026-09-03-20-47-16/outputs/gen_xlsx.py",
+    "source_relative_path": "2026-09-03-20-47-16/outputs/gen_xlsx.py",
+    "original_sha256": "a9cc33ded2cdd9f7e8f7535afff32804952ca4bc64668b22339d5c7f67f4acee",
+    "archived_path": "archive/session/2026-09-03-20-47-16/outputs/gen_xlsx.py",
+    "original_bytes": 14490,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "style_header",
+        "style_body",
+        "set_widths",
+        "write_rows"
+      ],
+      "if": 4,
+      "for": 7,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 1,
+    "archived_sha256": "dafc59c6c72a56110d244f7456498234047cce89362c4607b16c4a9938af3cc4"
+  },
+  {
+    "id": "session/2026-08-03-17-30-10/create_form.js",
+    "source_relative_path": "2026-08-03-17-30-10/create_form.js",
+    "original_sha256": "5fa9414a847b7663f3f80b3fc21e52beca001c5bcc41bbc473e0f7038d2f2146",
+    "archived_path": "archive/session/2026-08-03-17-30-10/create_form.js",
+    "original_bytes": 7658,
+    "execution_class": "signature-archive",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "standard_npm_dependencies": [
+      "docx"
+    ],
+    "npm_dependency_version_unspecified": true,
+    "dependency_not_redistributed": true,
+    "default_execution_blocked": true,
+    "archived_sha256": "684cdb41605e24ff5a30008c188558731bcf126d68f044285b3eb9370733440d"
+  }
+]

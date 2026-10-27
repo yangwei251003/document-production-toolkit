@@ -1,0 +1,1281 @@
+[
+  {
+    "id": "career/assemble_ppt_delivery.py",
+    "source_relative_path": "career/assemble_ppt_delivery.py",
+    "original_sha256": "47ef0a370ebbf22faccefc80faeb4687b92380726fc011ffaa13e2f63d2bc2d4",
+    "archived_path": "archive/career/assemble_ppt_delivery.py",
+    "original_bytes": 17720,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 52,
+      "synthetic_prose_literals": 47,
+      "absolute_paths": 10,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 1,
+      "for_count": 13,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "e12d70ab67b77d248d4b5e0516883758c84c9d3bdb850eabd0d38b2f7bfbad77"
+  },
+  {
+    "id": "career/assemble_v2.py",
+    "source_relative_path": "career/assemble_v2.py",
+    "original_sha256": "45aed771deb57b05b518f6ba6b1657a888458b7aa1a4612c2a86beb404699fb1",
+    "archived_path": "archive/career/assemble_v2.py",
+    "original_bytes": 9113,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 31,
+      "synthetic_prose_literals": 25,
+      "absolute_paths": 1,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 6,
+      "for_count": 5,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "aa38cb755e0fe59011cff9fec1d3368ce382620dbe24f7e25bf1a69eff093580"
+  },
+  {
+    "id": "career/build_ppt_review.py",
+    "source_relative_path": "career/build_ppt_review.py",
+    "original_sha256": "35dbca83e082a3e7f9d4693c2907ab4dbcad440155e872d8d4e56f4c09e0f84e",
+    "archived_path": "archive/career/build_ppt_review.py",
+    "original_bytes": 6955,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 4,
+      "synthetic_prose_literals": 3,
+      "absolute_paths": 2,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "inline"
+      ],
+      "if_count": 5,
+      "for_count": 2,
+      "while_count": 2,
+      "try_count": 0
+    },
+    "archived_sha256": "f1ac46e496dd25107b3f3ccfd1cf805a1df30ccfeca2689f1d888f96370eb1b8"
+  },
+  {
+    "id": "career/build_resumes.py",
+    "source_relative_path": "career/build_resumes.py",
+    "original_sha256": "40082721dff14c34d8bdd54edaa003e9329939f7d24bdf04ecda841c523a3381",
+    "archived_path": "archive/career/build_resumes.py",
+    "original_bytes": 15013,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 59,
+      "synthetic_prose_literals": 46,
+      "absolute_paths": 1,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "font",
+        "rich",
+        "para",
+        "bullet",
+        "section",
+        "entry",
+        "picture_anchor",
+        "new_doc",
+        "education",
+        "internship",
+        "projects",
+        "leadership",
+        "awards",
+        "skills",
+        "compact",
+        "detailed"
+      ],
+      "if_count": 15,
+      "for_count": 13,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "83adc019d5b7c54a41fcb8f93bd987448057f25a922d5f8bbb77d2171c964c8b"
+  },
+  {
+    "id": "career/export_word.ps1",
+    "source_relative_path": "career/export_word.ps1",
+    "original_sha256": "cf31b38910dff26d8d532ab33de59d10d4c7e780167e5fc1e6658d2f6373cb5a",
+    "archived_path": "archive/career/export_word.ps1",
+    "original_bytes": 1307,
+    "execution_class": "office",
+    "default_execution_blocked": true,
+    "archived_sha256": "0447f56c7c55b6a0c78829d8d40ad264dd849d079feb51f49913c153fdeb69ee"
+  },
+  {
+    "id": "career/fetch_ppt_references.py",
+    "source_relative_path": "career/fetch_ppt_references.py",
+    "original_sha256": "1d729fc9e5442ac6fb038597bf391dff042f3ac108266632f7b972634c87e8b4",
+    "archived_path": "archive/career/fetch_ppt_references.py",
+    "original_bytes": 1527,
+    "execution_class": "network",
+    "literal_edits": {
+      "privacy_literals": 0,
+      "synthetic_prose_literals": 0,
+      "absolute_paths": 5,
+      "root_bindings": 0
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "fetch"
+      ],
+      "if_count": 1,
+      "for_count": 1,
+      "while_count": 0,
+      "try_count": 1
+    },
+    "archived_sha256": "a4670c3c08c72a9764f058eb791d42280c729ce6565468460a3a9679b9db4098"
+  },
+  {
+    "id": "career/finalize_honors.py",
+    "source_relative_path": "career/finalize_honors.py",
+    "original_sha256": "2d1e1447cbdb5c4968e94037d313ea3008fdf97705d1c0d40eb85aed263ae2ed",
+    "archived_path": "archive/career/finalize_honors.py",
+    "original_bytes": 2115,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 2,
+      "synthetic_prose_literals": 1,
+      "absolute_paths": 0,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 2,
+      "for_count": 4,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "808ea0b92b35737e1a7cb5d175f75a48a586920a4543899d4d1116b9a04c02e3"
+  },
+  {
+    "id": "career/finalize_ppt_delivery.py",
+    "source_relative_path": "career/finalize_ppt_delivery.py",
+    "original_sha256": "0bf39891f12e6a9dd276b6996237b2970a2249699334780090411458ea17544a",
+    "archived_path": "archive/career/finalize_ppt_delivery.py",
+    "original_bytes": 6474,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 22,
+      "synthetic_prose_literals": 21,
+      "absolute_paths": 0,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 2,
+      "for_count": 4,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "e204ce0e806d010ad0bd753cf8b6f9e3114bd49775250ecdcd136b44d31ecf6d"
+  },
+  {
+    "id": "career/finalize_v2.py",
+    "source_relative_path": "career/finalize_v2.py",
+    "original_sha256": "363d98a8d36e9be2ea193596b3cdaa8e0b2bb02efeef35123f0637ae85c0a833",
+    "archived_path": "archive/career/finalize_v2.py",
+    "original_bytes": 5069,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 14,
+      "synthetic_prose_literals": 13,
+      "absolute_paths": 0,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 2,
+      "for_count": 4,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "6f4dca025108229a39e6138311751148cb4ad0cb7541411644aeb680a57bd8de"
+  },
+  {
+    "id": "career/package_delivery.py",
+    "source_relative_path": "career/package_delivery.py",
+    "original_sha256": "c81dafa8d9741240c778755aaafe8bbf6d9120839c337b0d2975354b9d29bb9e",
+    "archived_path": "archive/career/package_delivery.py",
+    "original_bytes": 3453,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 5,
+      "synthetic_prose_literals": 2,
+      "absolute_paths": 0,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 0,
+      "for_count": 3,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "bcf7f13ec58be242cb4db99963f79bdc82dcbdbd69844e3cc06e5572f19d1650"
+  },
+  {
+    "id": "career/prepare_ppt_generation.py",
+    "source_relative_path": "career/prepare_ppt_generation.py",
+    "original_sha256": "4dff22f3997202723c9e242f0695e613d1584737cb9a84056ce45d79d645a29b",
+    "archived_path": "archive/career/prepare_ppt_generation.py",
+    "original_bytes": 11148,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 25,
+      "synthetic_prose_literals": 19,
+      "absolute_paths": 3,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 5,
+      "for_count": 3,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "15ce624fbca59b1eb625f0194c1500abf221871e2493aa555ee03e7f030a977e"
+  },
+  {
+    "id": "career/prepare_v2.py",
+    "source_relative_path": "career/prepare_v2.py",
+    "original_sha256": "e53e41d66d1101909ed1fc3ae8f998cb495a5d010179090296b205039bb5a799",
+    "archived_path": "archive/career/prepare_v2.py",
+    "original_bytes": 17290,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 40,
+      "synthetic_prose_literals": 40,
+      "absolute_paths": 1,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "change"
+      ],
+      "if_count": 3,
+      "for_count": 3,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "209c598e6d027e954572c10d32d815d48c8557d3accbfa1143109a6a4dd503d3"
+  },
+  {
+    "id": "career/record_ppt_image.py",
+    "source_relative_path": "career/record_ppt_image.py",
+    "original_sha256": "e55ba82d2a0c684c7596a041fa3590946ba478832ca2453630ba7807ab5c169b",
+    "archived_path": "archive/career/record_ppt_image.py",
+    "original_bytes": 1098,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 0,
+      "synthetic_prose_literals": 0,
+      "absolute_paths": 0,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 2,
+      "for_count": 0,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "3c183615a0370869ec321fdf6fdf61120787d6185f6762cff52761b4982ed1b4"
+  },
+  {
+    "id": "career/record_v2_image.py",
+    "source_relative_path": "career/record_v2_image.py",
+    "original_sha256": "ac01b3c7bd0a95533061da7108fb3d331d9bd635bac09dc083f2a2d8a1633e60",
+    "archived_path": "archive/career/record_v2_image.py",
+    "original_bytes": 1120,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 0,
+      "synthetic_prose_literals": 0,
+      "absolute_paths": 0,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 2,
+      "for_count": 0,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "f59431dedbe81c342286a994b4c0d465513df85e6aeea1862e6f3b8aad5b0b3d"
+  },
+  {
+    "id": "career/render_and_check.py",
+    "source_relative_path": "career/render_and_check.py",
+    "original_sha256": "1ec8f13d0df0b870cc3f8c1be0f26161fc0dec47ff3894bc82e75d2eb4d56dd5",
+    "archived_path": "archive/career/render_and_check.py",
+    "original_bytes": 2846,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 0,
+      "synthetic_prose_literals": 0,
+      "absolute_paths": 2,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "native_word_pdf"
+      ],
+      "if_count": 1,
+      "for_count": 2,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "cf2bc301f767b644e9dc167c53ef15f3bcee8cf82f482bc4dd1e4060d756f745"
+  },
+  {
+    "id": "career/revision_assets.py",
+    "source_relative_path": "career/revision_assets.py",
+    "original_sha256": "3d653c6c05d668fa0074f38f379ca88759ccb1c2840c82a7cdf9481282a5d6c6",
+    "archived_path": "archive/career/revision_assets.py",
+    "original_bytes": 1419,
+    "execution_class": "network",
+    "literal_edits": {
+      "privacy_literals": 1,
+      "synthetic_prose_literals": 0,
+      "absolute_paths": 5,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 1,
+      "for_count": 3,
+      "while_count": 0,
+      "try_count": 1
+    },
+    "archived_sha256": "5c20c9f832c79f7dfe3306646915585c9c545a0427bb6a2d44cb6f9a56d883c7"
+  },
+  {
+    "id": "career/revision_download_selected.py",
+    "source_relative_path": "career/revision_download_selected.py",
+    "original_sha256": "0d7c0ac78a099a518c186855090ca507d82041bae37f1a54457d2b39bcb5e399",
+    "archived_path": "archive/career/revision_download_selected.py",
+    "original_bytes": 1677,
+    "execution_class": "network",
+    "literal_edits": {
+      "privacy_literals": 1,
+      "synthetic_prose_literals": 0,
+      "absolute_paths": 12,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 0,
+      "for_count": 1,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "4c9ec387a76fbba6b4d07893d277940b35e0563f9b4f579c4f5ac8143936d56e"
+  },
+  {
+    "id": "career/update_honors.py",
+    "source_relative_path": "career/update_honors.py",
+    "original_sha256": "c955189c9edc1f2b608bf3bcd89a556aa86a33e3f913aada4448b55d3f80c1bb",
+    "archived_path": "archive/career/update_honors.py",
+    "original_bytes": 6538,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 16,
+      "synthetic_prose_literals": 13,
+      "absolute_paths": 0,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 1,
+      "for_count": 3,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "8006492f94f8969a81e750c3a03f058016b62595fac472d9f43ae1fe5f88261a"
+  },
+  {
+    "id": "career/verify_ppt_native.ps1",
+    "source_relative_path": "career/verify_ppt_native.ps1",
+    "original_sha256": "6e162377ade06a933b08cf398345ea93dfa81698932687c9a94684f2e5071238",
+    "archived_path": "archive/career/verify_ppt_native.ps1",
+    "original_bytes": 2244,
+    "execution_class": "office",
+    "default_execution_blocked": true,
+    "archived_sha256": "63aaba2fdbde58b2cc16c3e299d8910488ba3443ab1929acadcd62e319d18284"
+  },
+  {
+    "id": "career/verify_v2_native.ps1",
+    "source_relative_path": "career/verify_v2_native.ps1",
+    "original_sha256": "06c39f1d6693be9f4df8649f438941a34b8a90105902d1fe8fe34c13d966412c",
+    "archived_path": "archive/career/verify_v2_native.ps1",
+    "original_bytes": 2285,
+    "execution_class": "office",
+    "default_execution_blocked": true,
+    "archived_sha256": "979e5bae4aebe2bd9048496600155da15e7b2c4f50d9841bc47a2833afc90fb8"
+  },
+  {
+    "id": "scholarship/国家奖学金申请表_填写版/01_转换并导出.ps1",
+    "source_relative_path": "scholarship/国家奖学金申请表_填写版/01_转换并导出.ps1",
+    "original_sha256": "cd6320fdfb75431c1746f172af5a771332314615405a46e8cc8e8ccbee7bcbed",
+    "archived_path": "archive/scholarship/国家奖学金申请表_填写版/01_转换并导出.ps1",
+    "original_bytes": 928,
+    "execution_class": "office",
+    "default_execution_blocked": true,
+    "archived_sha256": "a6f2721f05dc98c914b693fc99b92bfa516cc9eb010f0b75faab7f50919f2acf"
+  },
+  {
+    "id": "scholarship/国家奖学金申请表_填写版/02_生成两页申请表.py",
+    "source_relative_path": "scholarship/国家奖学金申请表_填写版/02_生成两页申请表.py",
+    "original_sha256": "167b86af3d205166e1dd873e997111abc37d3f58cdf259b2a578435cb0995ccd",
+    "archived_path": "archive/scholarship/国家奖学金申请表_填写版/02_生成两页申请表.py",
+    "original_bytes": 11562,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 19,
+      "synthetic_prose_literals": 13,
+      "absolute_paths": 0,
+      "root_bindings": 0
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "set_cell_text",
+        "set_cell_margins",
+        "shade",
+        "set_width",
+        "no_split",
+        "set_height",
+        "style_table",
+        "add_title",
+        "basic_table",
+        "study_table",
+        "awards_table",
+        "reason_table",
+        "opinion_table"
+      ],
+      "if_count": 16,
+      "for_count": 18,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "562765699f86d7fbfa3887832d3f32b90d8f71dff107a1a6d7d9d303779ca117"
+  },
+  {
+    "id": "scholarship/国家奖学金申请表_填写版/03_结构与内容校验.py",
+    "source_relative_path": "scholarship/国家奖学金申请表_填写版/03_结构与内容校验.py",
+    "original_sha256": "c94295e54237af892bd23d6e0c5776cba4e7cec35064009f2785f07d87f48468",
+    "archived_path": "archive/scholarship/国家奖学金申请表_填写版/03_结构与内容校验.py",
+    "original_bytes": 1860,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 3,
+      "synthetic_prose_literals": 2,
+      "absolute_paths": 0,
+      "root_bindings": 0
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 0,
+      "for_count": 0,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "68569fef203c3bdcfda1cf5dd4ab0c0bd260602e52b6dcf3ce9c1b59fb6b015e"
+  },
+  {
+    "id": "scholarship/国家奖学金申请表_填写版/04_按原格式去除修订并转DOCX.py",
+    "source_relative_path": "scholarship/国家奖学金申请表_填写版/04_按原格式去除修订并转DOCX.py",
+    "original_sha256": "bdbcbcb7e042e6c427404f6b361892ad4ee8b02202415324d3b6cd4b71f5d305",
+    "archived_path": "archive/scholarship/国家奖学金申请表_填写版/04_按原格式去除修订并转DOCX.py",
+    "original_bytes": 1998,
+    "execution_class": "office",
+    "literal_edits": {
+      "privacy_literals": 1,
+      "synthetic_prose_literals": 1,
+      "absolute_paths": 1,
+      "root_bindings": 0
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 4,
+      "for_count": 0,
+      "while_count": 0,
+      "try_count": 1
+    },
+    "archived_sha256": "4c4c95963e35add4d08ca5a85144e0657133f57a5b45b6730c7fc90746541015"
+  },
+  {
+    "id": "scholarship/国家奖学金答辩_修订版/生成与检查记录/render_sources.py",
+    "source_relative_path": "scholarship/国家奖学金答辩_修订版/生成与检查记录/render_sources.py",
+    "original_sha256": "e92f615c13c807e56bafcb3a07bcd2331835550e43097cdb7f526d56abd66e7c",
+    "archived_path": "archive/scholarship/国家奖学金答辩_修订版/生成与检查记录/render_sources.py",
+    "original_bytes": 2797,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 0,
+      "synthetic_prose_literals": 0,
+      "absolute_paths": 1,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 2,
+      "for_count": 1,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "9907c216868f4f898ee63200e4ecd9de4d07629b05a7a0e7a01d524b5fb45378"
+  },
+  {
+    "id": "scholarship/国家奖学金答辩_修订版/生成与检查记录/打包交付.py",
+    "source_relative_path": "scholarship/国家奖学金答辩_修订版/生成与检查记录/打包交付.py",
+    "original_sha256": "968676e2c348f6c5dd42dfd2d95ea33dc7afa1cb64433c2f638b52cbf334a2b2",
+    "archived_path": "archive/scholarship/国家奖学金答辩_修订版/生成与检查记录/打包交付.py",
+    "original_bytes": 1997,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 3,
+      "synthetic_prose_literals": 1,
+      "absolute_paths": 1,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 0,
+      "for_count": 4,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "6521da257b633c2e10883b5e99145c6617d57ead0bbf1a557dd0d07c5f933601"
+  },
+  {
+    "id": "scholarship/国家奖学金答辩_最终版/制作记录/assemble_final.py",
+    "source_relative_path": "scholarship/国家奖学金答辩_最终版/制作记录/assemble_final.py",
+    "original_sha256": "fc2970669291be9950fb87d875ff9d47483fa2c99d0659df50b57a2c3624fc4e",
+    "archived_path": "archive/scholarship/国家奖学金答辩_最终版/制作记录/assemble_final.py",
+    "original_bytes": 9823,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 7,
+      "synthetic_prose_literals": 3,
+      "absolute_paths": 2,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "src_url",
+        "photo"
+      ],
+      "if_count": 8,
+      "for_count": 9,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "8c5c5d0d9f0d06000f6a706067c49c9fa89df78610ab1019b5b6fe5f057f3b6a"
+  },
+  {
+    "id": "scholarship/国家奖学金答辩_最终版/制作记录/verify_final.py",
+    "source_relative_path": "scholarship/国家奖学金答辩_最终版/制作记录/verify_final.py",
+    "original_sha256": "278a114d43bb2ac6c73dfda8f780c238d0f3cfb1742892060c43174bcf1e29c4",
+    "archived_path": "archive/scholarship/国家奖学金答辩_最终版/制作记录/verify_final.py",
+    "original_bytes": 2132,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 2,
+      "synthetic_prose_literals": 0,
+      "absolute_paths": 0,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 0,
+      "for_count": 2,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "0239b11e2d8b5be2b00486936f299b112fd8700bfd8a01a15ae783e24856d79a"
+  },
+  {
+    "id": "scholarship/整理说明与索引/工具/add_new.py",
+    "source_relative_path": "scholarship/整理说明与索引/工具/add_new.py",
+    "original_sha256": "c028705ca2b39687868e5a3730d382bd26e7cd764f6d2d034ccb3dd3275f0323",
+    "archived_path": "archive/scholarship/整理说明与索引/工具/add_new.py",
+    "original_bytes": 3116,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 4,
+      "synthetic_prose_literals": 3,
+      "absolute_paths": 0,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 2,
+      "for_count": 1,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "851bd41f1c09fcc522524ec5cbe811ead87ee62f7293442f9f6bdcf00fa67ed9"
+  },
+  {
+    "id": "scholarship/整理说明与索引/工具/build_16page_plan.py",
+    "source_relative_path": "scholarship/整理说明与索引/工具/build_16page_plan.py",
+    "original_sha256": "1f53756a991596ae3bddf8dd7109fcc9ebf13d3213b01a156ddd566af2ef48a9",
+    "archived_path": "archive/scholarship/整理说明与索引/工具/build_16page_plan.py",
+    "original_bytes": 29885,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 68,
+      "synthetic_prose_literals": 62,
+      "absolute_paths": 0,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "add",
+        "img_html"
+      ],
+      "if_count": 7,
+      "for_count": 6,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "98e585ef7bce7e3451322a81437406d0f3a79b3292603cdc6e6775b0f3b21b08"
+  },
+  {
+    "id": "scholarship/整理说明与索引/工具/organize.py",
+    "source_relative_path": "scholarship/整理说明与索引/工具/organize.py",
+    "original_sha256": "c5829e63bd0845d2240e24aaa2343e39cb7a99a686316089ba4c74ac51f352af",
+    "archived_path": "archive/scholarship/整理说明与索引/工具/organize.py",
+    "original_bytes": 6712,
+    "execution_class": "organizer",
+    "literal_edits": {
+      "privacy_literals": 1,
+      "synthetic_prose_literals": 1,
+      "absolute_paths": 1,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 4,
+      "for_count": 9,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "0e3744f7a82a751a5e5f7e1b1087e3b84a52b37bce883c2a4481f28027e05678"
+  },
+  {
+    "id": "scholarship/整理说明与索引/工具/organize_round3.py",
+    "source_relative_path": "scholarship/整理说明与索引/工具/organize_round3.py",
+    "original_sha256": "3093175da4bc07291c871866bfe9eee59a5ad6f440d9a3b8918b04ae1fe64b95",
+    "archived_path": "archive/scholarship/整理说明与索引/工具/organize_round3.py",
+    "original_bytes": 7861,
+    "execution_class": "organizer",
+    "literal_edits": {
+      "privacy_literals": 18,
+      "synthetic_prose_literals": 17,
+      "absolute_paths": 0,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 9,
+      "for_count": 6,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "539a86f9399e8a1dc4187119776ebec4ca39d4584dbe8e80f408199effe5329d"
+  },
+  {
+    "id": "scholarship/整理说明与索引/工具/prepare.py",
+    "source_relative_path": "scholarship/整理说明与索引/工具/prepare.py",
+    "original_sha256": "4d1a151fdc903e46d0b44c2632b88a7409e30ecf3ec2e2d771e810b209aba669",
+    "archived_path": "archive/scholarship/整理说明与索引/工具/prepare.py",
+    "original_bytes": 1389,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 0,
+      "synthetic_prose_literals": 0,
+      "absolute_paths": 1,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 0,
+      "for_count": 4,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "ac736c1a82d55dd6ead95ab2648625f4548287155b75d352f51c496a363ccd0a"
+  },
+  {
+    "id": "scholarship/整理说明与索引/工具/read_video.py",
+    "source_relative_path": "scholarship/整理说明与索引/工具/read_video.py",
+    "original_sha256": "d8f319124e86e43ce29e17e7b90f388e45e1fdff84a6c65baaa879b37cdff53c",
+    "archived_path": "archive/scholarship/整理说明与索引/工具/read_video.py",
+    "original_bytes": 1547,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 0,
+      "synthetic_prose_literals": 0,
+      "absolute_paths": 1,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 0,
+      "for_count": 2,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "40261eca28b0b74a1d63838d3709098b206a6dca56bfe26f078c77596b4a671c"
+  },
+  {
+    "id": "scholarship/整理说明与索引/工具/update_context.py",
+    "source_relative_path": "scholarship/整理说明与索引/工具/update_context.py",
+    "original_sha256": "871c4e78a6900b213f6dced0793aa79bd14d0da6132a2173ce1cae4a2f9ca699",
+    "archived_path": "archive/scholarship/整理说明与索引/工具/update_context.py",
+    "original_bytes": 3018,
+    "execution_class": "document-workflow",
+    "literal_edits": {
+      "privacy_literals": 7,
+      "synthetic_prose_literals": 7,
+      "absolute_paths": 0,
+      "root_bindings": 1
+    },
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if_count": 5,
+      "for_count": 1,
+      "while_count": 0,
+      "try_count": 0
+    },
+    "archived_sha256": "81ae27d2aac3f8a3197cc27e3b7b80ace182cc6d6367a2441c0aa50cece7b566"
+  },
+  {
+    "id": "session/2026-10-07-21-33-31/.参赛信息表.ref/build.py",
+    "source_relative_path": "2026-10-07-21-33-31/.参赛信息表.ref/build.py",
+    "original_sha256": "a8d515d79f2ca2496d9f0ac72fa1fe13f0b2543d8c9522d937ff2bb7615ea175",
+    "archived_path": "archive/session/2026-10-07-21-33-31/.参赛信息表.ref/build.py",
+    "original_bytes": 4991,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "xl_color"
+      ],
+      "if": 2,
+      "for": 9,
+      "while": 0,
+      "try": 1
+    },
+    "text_fixture_entries": 0,
+    "archived_sha256": "9ed8e4b82e871ae70009fcb8f2b0e59c169941d94f7f9355a27a3f36017aac0d"
+  },
+  {
+    "id": "session/2026-10-04-22-46-18/build_reader.py",
+    "source_relative_path": "2026-10-04-22-46-18/build_reader.py",
+    "original_sha256": "7335b8afabf3ba056331d8b00a4331936b4c6a323b9749dbf0f4e00f00d59e38",
+    "archived_path": "archive/session/2026-10-04-22-46-18/build_reader.py",
+    "original_bytes": 54421,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "load",
+        "md_inline",
+        "md_to_html",
+        "human_size"
+      ],
+      "if": 10,
+      "for": 7,
+      "while": 4,
+      "try": 0
+    },
+    "text_fixture_entries": 9,
+    "archived_sha256": "45a3d899997ffe2bc4f915a054f7b91bc4b73f8aabd8ae2817586ad9d2f6ed1f"
+  },
+  {
+    "id": "session/2026-09-15-10-34-50/_work/make_flowchart.py",
+    "source_relative_path": "2026-09-15-10-34-50/_work/make_flowchart.py",
+    "original_sha256": "641adc757db58ae4384e07cc82ae32d91938ba014c65922fe80c1fdd25950687",
+    "archived_path": "archive/session/2026-09-15-10-34-50/_work/make_flowchart.py",
+    "original_bytes": 10084,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "font",
+        "wrap",
+        "measure_note",
+        "note_height",
+        "draw_round",
+        "arrow",
+        "chevron"
+      ],
+      "if": 7,
+      "for": 11,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 3,
+    "archived_sha256": "359d8ce5b0344c636be55456b9443c1a8724ce21722c2b1c0023ae9f1c93ec86"
+  },
+  {
+    "id": "session/2026-09-15-10-34-50/_work/make_payload.py",
+    "source_relative_path": "2026-09-15-10-34-50/_work/make_payload.py",
+    "original_sha256": "5d4a6ee5fb7f84f90a789c7dbbed10c4c6d750973fbae46bfdd0fc80418ddeff",
+    "archived_path": "archive/session/2026-09-15-10-34-50/_work/make_payload.py",
+    "original_bytes": 7559,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "P"
+      ],
+      "if": 0,
+      "for": 1,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 15,
+    "archived_sha256": "339a4e179d1cc0414be09659b5a69fb3d4272653439dcea1c0057216493fe03c"
+  },
+  {
+    "id": "session/2026-09-15-10-34-50/_work/make_signature3.py",
+    "source_relative_path": "2026-09-15-10-34-50/_work/make_signature3.py",
+    "original_sha256": "edf7e37318bdd565dbc757d0120e15cbf1f5922f641cd52b17c8031208d7e765",
+    "archived_path": "archive/session/2026-09-15-10-34-50/_work/make_signature3.py",
+    "original_bytes": 2646,
+    "execution_class": "signature-archive",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "make_signature"
+      ],
+      "if": 2,
+      "for": 4,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 1,
+    "archived_sha256": "1513748ddd7dc37b9686e0ef7c3f4e40d8fc80029d8c4d71a2d9ade62734c44a"
+  },
+  {
+    "id": "session/2026-09-14-20-16-02/work/a2.py",
+    "source_relative_path": "2026-09-14-20-16-02/work/a2.py",
+    "original_sha256": "d0094bf7cda6b0f85f6398aaadcded1b468a89be6b52b4426044bfda2a913354",
+    "archived_path": "archive/session/2026-09-14-20-16-02/work/a2.py",
+    "original_bytes": 1143,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "read"
+      ],
+      "if": 0,
+      "for": 2,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 4,
+    "archived_sha256": "011bf9779da11d13d28796e78fd2c9b7784b90521555d1cb993c5f81441f87c2"
+  },
+  {
+    "id": "session/2026-09-14-20-16-02/work/a3.py",
+    "source_relative_path": "2026-09-14-20-16-02/work/a3.py",
+    "original_sha256": "e9414707634f5fd889ba142c2e6297b882918a31a51c6bc0873b4a0aba0d64fa",
+    "archived_path": "archive/session/2026-09-14-20-16-02/work/a3.py",
+    "original_bytes": 1768,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "read"
+      ],
+      "if": 1,
+      "for": 5,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 1,
+    "archived_sha256": "e974389ee6edc18033b811e1961bbb9f0bacc0f2febbbee0382a4c3ae0ad8941"
+  },
+  {
+    "id": "session/2026-09-14-20-16-02/work/a4.py",
+    "source_relative_path": "2026-09-14-20-16-02/work/a4.py",
+    "original_sha256": "a68947fee656a8f319b3e97c0792ee9fb3051f17c3fadc7290a8dfb4d8e26494",
+    "archived_path": "archive/session/2026-09-14-20-16-02/work/a4.py",
+    "original_bytes": 2110,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "read",
+        "png_size",
+        "jpg_size"
+      ],
+      "if": 7,
+      "for": 3,
+      "while": 1,
+      "try": 2
+    },
+    "text_fixture_entries": 0,
+    "archived_sha256": "36980f1c23b8ad1ce198f1c7446060a49dbd3bc480b9941dd18595e70df29c0e"
+  },
+  {
+    "id": "session/2026-09-14-20-16-02/work/a5.py",
+    "source_relative_path": "2026-09-14-20-16-02/work/a5.py",
+    "original_sha256": "9ef75252f8d155ee896ba082038d095d6a91b203c5e149ed3743e8e0dbc41aad",
+    "archived_path": "archive/session/2026-09-14-20-16-02/work/a5.py",
+    "original_bytes": 768,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "read"
+      ],
+      "if": 0,
+      "for": 0,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 1,
+    "archived_sha256": "9d7279e2da5e09b225d45d7c0f8e78285d4a5275005af01f2482b118bb9ebfb5"
+  },
+  {
+    "id": "session/2026-09-14-20-16-02/work/analyze.py",
+    "source_relative_path": "2026-09-14-20-16-02/work/analyze.py",
+    "original_sha256": "1e3b45f5394b7c3c7c49ecbe542f5b7ed218af2538a146df7f58353b56a1e557",
+    "archived_path": "archive/session/2026-09-14-20-16-02/work/analyze.py",
+    "original_bytes": 1584,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "read"
+      ],
+      "if": 0,
+      "for": 3,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 3,
+    "archived_sha256": "491294b84a5bef116abb96929bf7ed6c3a7b7e82d2fdc032bfc6f1722b0e63f0"
+  },
+  {
+    "id": "session/2026-09-14-20-16-02/work/build_fix.py",
+    "source_relative_path": "2026-09-14-20-16-02/work/build_fix.py",
+    "original_sha256": "aa8d0b889b14c6e8187a01122f850b4e7da75ba504c311d59581df0ae34d1809",
+    "archived_path": "archive/session/2026-09-14-20-16-02/work/build_fix.py",
+    "original_bytes": 10593,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "cellstr",
+        "png_size",
+        "jpg_size",
+        "img_size",
+        "col_px",
+        "row_px"
+      ],
+      "if": 13,
+      "for": 13,
+      "while": 1,
+      "try": 0
+    },
+    "text_fixture_entries": 4,
+    "archived_sha256": "7b76f10082d4ce7769bed34e00a5bf380e1835ca17c47598e4d214ea4161e883"
+  },
+  {
+    "id": "session/2026-09-14-20-16-02/work/make_lite.py",
+    "source_relative_path": "2026-09-14-20-16-02/work/make_lite.py",
+    "original_sha256": "48134df0b56c8b2607a8f14b60371455392d95be021485884ec138ea8602da74",
+    "archived_path": "archive/session/2026-09-14-20-16-02/work/make_lite.py",
+    "original_bytes": 3303,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if": 5,
+      "for": 4,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 2,
+    "archived_sha256": "e2120d8a8a81c787c056d00dcd3e2de10799b7e4cc1ca6b8a9f391f802e53fc8"
+  },
+  {
+    "id": "session/2026-09-14-20-16-02/work/render_preview.py",
+    "source_relative_path": "2026-09-14-20-16-02/work/render_preview.py",
+    "original_sha256": "c20cc260e6fd0a20f17dbd8b2c0e49d7160419de90d0339b6e08fd3479084fa2",
+    "archived_path": "archive/session/2026-09-14-20-16-02/work/render_preview.py",
+    "original_bytes": 5967,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "col_px",
+        "row_px"
+      ],
+      "if": 11,
+      "for": 14,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 2,
+    "archived_sha256": "7604034b76e0bd9452fb006ddd6f7fda26afbde3a6d709abad306e999fbb7557"
+  },
+  {
+    "id": "session/2026-09-14-20-16-02/work/verify.py",
+    "source_relative_path": "2026-09-14-20-16-02/work/verify.py",
+    "original_sha256": "bfa7df580616ec1ff351b491be08f56e73dace93614fc56e8f824f88a383b128",
+    "archived_path": "archive/session/2026-09-14-20-16-02/work/verify.py",
+    "original_bytes": 3324,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if": 7,
+      "for": 4,
+      "while": 0,
+      "try": 1
+    },
+    "text_fixture_entries": 0,
+    "archived_sha256": "b96aa810f60ed4e5f8013ea5b9936f387ee1b5c922953c11f96c4f6458452e6e"
+  },
+  {
+    "id": "session/2026-09-08-23-38-21/setup_2page.py",
+    "source_relative_path": "2026-09-08-23-38-21/setup_2page.py",
+    "original_sha256": "5097e74dab1ef6fad0483beae7798a70cadf87ac77c43b36c72240b482db8b7b",
+    "archived_path": "archive/session/2026-09-08-23-38-21/setup_2page.py",
+    "original_bytes": 1458,
+    "execution_class": "office-archive",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if": 1,
+      "for": 3,
+      "while": 0,
+      "try": 1
+    },
+    "text_fixture_entries": 0,
+    "archived_sha256": "3920856faff74bb4ace235518af1f4a6356433518d274d6ce5d1ef38624f0d77"
+  },
+  {
+    "id": "session/2026-09-08-23-38-21/setup_print.py",
+    "source_relative_path": "2026-09-08-23-38-21/setup_print.py",
+    "original_sha256": "6616a24818d1279877a5d5a689e0a6311024c0ffc581f0165fcbebf3a58d393b",
+    "archived_path": "archive/session/2026-09-08-23-38-21/setup_print.py",
+    "original_bytes": 1493,
+    "execution_class": "office-archive",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if": 1,
+      "for": 2,
+      "while": 0,
+      "try": 1
+    },
+    "text_fixture_entries": 0,
+    "archived_sha256": "de310fc603be0d3c7d817d9536a2beccf8ba6d7b3aef33bf1e3a4ca4dcc5a11a"
+  },
+  {
+    "id": "session/2026-09-08-23-38-21/test_open.py",
+    "source_relative_path": "2026-09-08-23-38-21/test_open.py",
+    "original_sha256": "3820f7edcff73355612462034cb186b0358a1742f262e3f01267dc282b11eb61",
+    "archived_path": "archive/session/2026-09-08-23-38-21/test_open.py",
+    "original_bytes": 647,
+    "execution_class": "office-archive",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [],
+      "if": 0,
+      "for": 1,
+      "while": 0,
+      "try": 2
+    },
+    "text_fixture_entries": 0,
+    "archived_sha256": "041f7f28de055346ec30202cb4d6200be7d98868200a81086a9410780814f826"
+  },
+  {
+    "id": "session/2026-09-07-10-57-08/generate_v2.py",
+    "source_relative_path": "2026-09-07-10-57-08/generate_v2.py",
+    "original_sha256": "57533d10e3d3f7eac91bb41a6227454c3423fd7a4f40f985944ba87a2dd78f04",
+    "archived_path": "archive/session/2026-09-07-10-57-08/generate_v2.py",
+    "original_bytes": 55210,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "w",
+        "r",
+        "unpack_template",
+        "replace_header_logo",
+        "add_cover_logo",
+        "add_report_images",
+        "load_document",
+        "set_default_run",
+        "make_run",
+        "make_image_para",
+        "make_p",
+        "add_to_body",
+        "page_break",
+        "make_table",
+        "build_cover",
+        "section_title",
+        "subsection_title",
+        "body_para",
+        "caption",
+        "centered_title",
+        "build_abstract",
+        "build_toc",
+        "build_section_1",
+        "build_section_2",
+        "build_section_3",
+        "build_section_4",
+        "build_section_5",
+        "build_section_6",
+        "build_section_7",
+        "build_section_8",
+        "build_section_9",
+        "build_references",
+        "build_appendix",
+        "finalize_document",
+        "repack_docx",
+        "main",
+        "add_img"
+      ],
+      "if": 33,
+      "for": 17,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 76,
+    "archived_sha256": "dee74f648bee7b502bf1c4739b4f3c59e224c8d57dbacbd9942334724c443b67"
+  },
+  {
+    "id": "session/2026-09-03-20-47-16/outputs/gen_xlsx.py",
+    "source_relative_path": "2026-09-03-20-47-16/outputs/gen_xlsx.py",
+    "original_sha256": "a9cc33ded2cdd9f7e8f7535afff32804952ca4bc64668b22339d5c7f67f4acee",
+    "archived_path": "archive/session/2026-09-03-20-47-16/outputs/gen_xlsx.py",
+    "original_bytes": 14490,
+    "execution_class": "session-document-workflow",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "control_flow_metrics_preserved": true,
+    "metrics": {
+      "functions": [
+        "style_header",
+        "style_body",
+        "set_widths",
+        "write_rows"
+      ],
+      "if": 4,
+      "for": 7,
+      "while": 0,
+      "try": 0
+    },
+    "text_fixture_entries": 1,
+    "archived_sha256": "dafc59c6c72a56110d244f7456498234047cce89362c4607b16c4a9938af3cc4"
+  },
+  {
+    "id": "session/2026-08-03-17-30-10/create_form.js",
+    "source_relative_path": "2026-08-03-17-30-10/create_form.js",
+    "original_sha256": "5fa9414a847b7663f3f80b3fc21e52beca001c5bcc41bbc473e0f7038d2f2146",
+    "archived_path": "archive/session/2026-08-03-17-30-10/create_form.js",
+    "original_bytes": 7658,
+    "execution_class": "signature-archive",
+    "duplicate_of_v0_1": [],
+    "near_duplicate_of_v0_1": [],
+    "standard_npm_dependencies": [
+      "docx"
+    ],
+    "npm_dependency_version_unspecified": true,
+    "dependency_not_redistributed": true,
+    "default_execution_blocked": true,
+    "archived_sha256": "684cdb41605e24ff5a30008c188558731bcf126d68f044285b3eb9370733440d"
+  }
+]

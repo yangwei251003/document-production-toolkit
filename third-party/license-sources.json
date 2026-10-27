@@ -1,0 +1,38 @@
+[
+  {
+    "package": "python-docx",
+    "version": "1.1.2",
+    "path": "third-party/licenses/python-docx-LICENSE",
+    "sha256": "7652f271e46d0d533e9dc463f3b5fcbdcacf4d6a9c8d6b554d15efd0f37f6132"
+  },
+  {
+    "package": "Pillow",
+    "version": "11.0.0",
+    "path": "third-party/licenses/Pillow-LICENSE",
+    "sha256": "2adf9e02e41bdb6e439dc5719ed6c5d1027611f8961e0abc8b2f35cf15f1e887"
+  },
+  {
+    "package": "lxml",
+    "version": "6.1.0",
+    "path": "third-party/licenses/lxml-LICENSE.txt",
+    "sha256": "e7c3ce8d76331b0101cc46790ab43958ea90a364bcf962ed8763d5a818340e69"
+  },
+  {
+    "package": "openpyxl",
+    "version": "3.1.5",
+    "path": "third-party/licenses/openpyxl-LICENCE.rst",
+    "sha256": "0c84bb42f5d367e5ebf9fc2dde35b16141df5ee0fdc189250858bc6c5560f69e"
+  },
+  {
+    "package": "et-xmlfile",
+    "version": "2.0.0",
+    "path": "third-party/licenses/et-xmlfile-LICENCE.python",
+    "sha256": "4ccdaaebc0f44b83720ec0399bb7ab329adce067dd62f73c5535a2dc05628ab2"
+  },
+  {
+    "package": "et-xmlfile",
+    "version": "2.0.0",
+    "path": "third-party/licenses/et-xmlfile-LICENCE.rst",
+    "sha256": "0c84bb42f5d367e5ebf9fc2dde35b16141df5ee0fdc189250858bc6c5560f69e"
+  }
+]

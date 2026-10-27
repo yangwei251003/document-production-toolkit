@@ -1,0 +1,212 @@
+[
+  {
+    "script": "session/2026-10-07-21-33-31/.参赛信息表.ref/build.py",
+    "input_id": "input_1.xlsx",
+    "extension": ".xlsx",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-10-04-22-46-18/build_reader.py",
+    "input_id": "input_2",
+    "extension": "",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-15-10-34-50/_work/make_flowchart.py",
+    "input_id": "input_3",
+    "extension": "",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-15-10-34-50/_work/make_signature3.py",
+    "input_id": "input_4",
+    "extension": "",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-14-20-16-02/work/a2.py",
+    "input_id": "input_5.xlsx",
+    "extension": ".xlsx",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-14-20-16-02/work/a3.py",
+    "input_id": "input_6.xlsx",
+    "extension": ".xlsx",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-14-20-16-02/work/a4.py",
+    "input_id": "input_7.xlsx",
+    "extension": ".xlsx",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-14-20-16-02/work/a5.py",
+    "input_id": "input_8.xlsx",
+    "extension": ".xlsx",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-14-20-16-02/work/analyze.py",
+    "input_id": "input_9.xlsx",
+    "extension": ".xlsx",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-14-20-16-02/work/build_fix.py",
+    "input_id": "input_10.xlsx",
+    "extension": ".xlsx",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-14-20-16-02/work/build_fix.py",
+    "input_id": "input_11",
+    "extension": "",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-14-20-16-02/work/make_lite.py",
+    "input_id": "input_12",
+    "extension": "",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-14-20-16-02/work/render_preview.py",
+    "input_id": "input_13.xlsx",
+    "extension": ".xlsx",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-14-20-16-02/work/render_preview.py",
+    "input_id": "input_14.png",
+    "extension": ".png",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-14-20-16-02/work/render_preview.py",
+    "input_id": "input_15.ttc",
+    "extension": ".ttc",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-14-20-16-02/work/render_preview.py",
+    "input_id": "input_16.ttf",
+    "extension": ".ttf",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-14-20-16-02/work/render_preview.py",
+    "input_id": "input_17.ttc",
+    "extension": ".ttc",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-14-20-16-02/work/verify.py",
+    "input_id": "input_18.xlsx",
+    "extension": ".xlsx",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-14-20-16-02/work/verify.py",
+    "input_id": "input_19.xlsx",
+    "extension": ".xlsx",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-08-23-38-21/setup_2page.py",
+    "input_id": "input_20.xlsx",
+    "extension": ".xlsx",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-08-23-38-21/setup_2page.py",
+    "input_id": "input_21",
+    "extension": "",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-08-23-38-21/setup_print.py",
+    "input_id": "input_22.xls",
+    "extension": ".xls",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-08-23-38-21/setup_print.py",
+    "input_id": "input_23.xlsx",
+    "extension": ".xlsx",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-08-23-38-21/setup_print.py",
+    "input_id": "input_24",
+    "extension": "",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-08-23-38-21/test_open.py",
+    "input_id": "input_25.xls",
+    "extension": ".xls",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-07-10-57-08/generate_v2.py",
+    "input_id": "input_26",
+    "extension": "",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-07-10-57-08/generate_v2.py",
+    "input_id": "input_27.png",
+    "extension": ".png",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-07-10-57-08/generate_v2.py",
+    "input_id": "input_28",
+    "extension": "",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-03-20-47-16/outputs/gen_xlsx.py",
+    "input_id": "output_29.xlsx",
+    "extension": ".xlsx",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  },
+  {
+    "script": "session/2026-09-03-20-47-16/outputs/gen_xlsx.py",
+    "input_id": "output_30.xlsx",
+    "extension": ".xlsx",
+    "bundled": false,
+    "reason": "original private path or runtime asset not redistributed"
+  }
+]

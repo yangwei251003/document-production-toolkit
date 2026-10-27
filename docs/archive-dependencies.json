@@ -1,0 +1,109 @@
+{
+  "career/assemble_ppt_delivery.py": [
+    "pypdf",
+    "python-pptx",
+    "reportlab"
+  ],
+  "career/assemble_v2.py": [
+    "pypdf",
+    "python-pptx",
+    "reportlab"
+  ],
+  "career/build_ppt_review.py": [],
+  "career/build_resumes.py": [
+    "python-docx"
+  ],
+  "career/export_word.ps1": [],
+  "career/fetch_ppt_references.py": [
+    "lxml",
+    "requests"
+  ],
+  "career/finalize_honors.py": [
+    "Pillow"
+  ],
+  "career/finalize_ppt_delivery.py": [
+    "Pillow"
+  ],
+  "career/finalize_v2.py": [
+    "Pillow"
+  ],
+  "career/package_delivery.py": [],
+  "career/prepare_ppt_generation.py": [],
+  "career/prepare_v2.py": [],
+  "career/record_ppt_image.py": [
+    "Pillow"
+  ],
+  "career/record_v2_image.py": [
+    "Pillow"
+  ],
+  "career/render_and_check.py": [
+    "pdfplumber",
+    "python-docx"
+  ],
+  "career/revision_assets.py": [
+    "beautifulsoup4",
+    "requests"
+  ],
+  "career/revision_download_selected.py": [
+    "requests"
+  ],
+  "career/update_honors.py": [
+    "Pillow",
+    "pypdf",
+    "python-pptx",
+    "reportlab"
+  ],
+  "career/verify_ppt_native.ps1": [],
+  "career/verify_v2_native.ps1": [],
+  "scholarship/国家奖学金申请表_填写版/01_转换并导出.ps1": [],
+  "scholarship/国家奖学金申请表_填写版/02_生成两页申请表.py": [
+    "python-docx"
+  ],
+  "scholarship/国家奖学金申请表_填写版/03_结构与内容校验.py": [
+    "python-docx"
+  ],
+  "scholarship/国家奖学金申请表_填写版/04_按原格式去除修订并转DOCX.py": [
+    "pywin32"
+  ],
+  "scholarship/国家奖学金答辩_修订版/生成与检查记录/render_sources.py": [
+    "Pillow",
+    "playwright"
+  ],
+  "scholarship/国家奖学金答辩_修订版/生成与检查记录/打包交付.py": [
+    "Pillow",
+    "PyMuPDF",
+    "python-pptx"
+  ],
+  "scholarship/国家奖学金答辩_最终版/制作记录/assemble_final.py": [
+    "Pillow",
+    "PyMuPDF",
+    "playwright",
+    "python-pptx"
+  ],
+  "scholarship/国家奖学金答辩_最终版/制作记录/verify_final.py": [
+    "Pillow",
+    "PyMuPDF",
+    "python-pptx"
+  ],
+  "scholarship/整理说明与索引/工具/add_new.py": [
+    "Pillow"
+  ],
+  "scholarship/整理说明与索引/工具/build_16page_plan.py": [],
+  "scholarship/整理说明与索引/工具/organize.py": [
+    "Pillow"
+  ],
+  "scholarship/整理说明与索引/工具/organize_round3.py": [
+    "Pillow"
+  ],
+  "scholarship/整理说明与索引/工具/prepare.py": [
+    "Pillow"
+  ],
+  "scholarship/整理说明与索引/工具/read_video.py": [
+    "Pillow",
+    "imageio-ffmpeg",
+    "opencv-python"
+  ],
+  "scholarship/整理说明与索引/工具/update_context.py": [
+    "Pillow"
+  ]
+}
